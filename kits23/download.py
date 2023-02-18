@@ -6,6 +6,8 @@ import urllib.request
 import shutil
 from time import sleep
 
+from kits23 import TRAINING_CASE_NUMBERS
+
 
 DST_PTH = Path(__file__).resolve().parent.parent / "dataset"
 
@@ -58,7 +60,7 @@ def download_dataset():
 
     # Determine which cases still need to be downloaded
     left_to_download = []
-    for case_num in range(300):
+    for case_num in TRAINING_CASE_NUMBERS:
         case_id = f"case_{case_num:05d}"
         dst = get_destination(case_id)
         if not dst.exists():
