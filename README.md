@@ -115,7 +115,7 @@ which will store the above dictionary data in a JSON file.
 
 The code in this repository is under an MIT License. The data that this code downloads is under a CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) license. If you would like to use this data for commercial purposes, please contact Nicholas Heller at helle246@umn.edu. Please note, we do not consider training a model for the *sole purpose of participation in this competition* to be commercial use. Therefore, industrial teams are strongly encouraged to participate. If you are an academic researcher interested in using this dataset in your work, you needn't ask for permission.
 
-If this project is useful to your research, please cite our most recent KiTS challenge paper in Medical Image Analysis (\[[html](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301857)\] \[[pdf](https://arxiv.org/pdf/1912.01054.pdf)\])
+If this project is useful to your research, please cite our most recent KiTS challenge paper in Medical Image Analysis \[[html](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301857)\] \[[pdf](https://arxiv.org/pdf/1912.01054.pdf)\].
 
 ```bibtex
 @article{heller2020state,
