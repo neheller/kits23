@@ -1,4 +1,4 @@
-dataset/*/imaging.nii.gz
+dataset/*/*imaging.nii.gz
 
 
 # DEFAULTS BELOW ==============================================================

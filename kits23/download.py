@@ -1,8 +1,10 @@
 """A script to download the KiTS23 dataset into this repository"""
+import sys
 from tqdm import tqdm
 from pathlib import Path
 import urllib.request
 import shutil
+from time import sleep
 
 
 DST_PTH = Path(__file__).resolve().parent.parent / "dataset"
@@ -18,10 +20,14 @@ def get_destination(case_id: str, create: bool = False):
 def cleanup(tmp_pth: Path, e: Exception):
     if tmp_pth.exists():
         tmp_pth.unlink()
+    
+    if e is None:
+        print("\nInterrupted.\n")
+        sys.exit()
     raise(e)
 
 
-def download_case(case_num: int):
+def download_case(case_num: int, pbar: tqdm):
     remote_name = f"master_{case_num:05d}.nii.gz"
     url = f"https://kits19.sfo2.digitaloceanspaces.com/{remote_name}"
     destination = get_destination(f"case_{case_num:05d}", True)
@@ -29,8 +35,21 @@ def download_case(case_num: int):
     try:
         urllib.request.urlretrieve(url, str(tmp_pth))
         shutil.move(str(tmp_pth), str(destination))
+    except KeyboardInterrupt as e:
+        pbar.close()
+        while True:
+            try:
+                sleep(0.1)
+                cleanup(tmp_pth, None)
+            except KeyboardInterrupt:
+                pass
     except Exception as e:
-        cleanup(tmp_pth, e)
+        pbar.close()
+        while True:
+            try:
+                cleanup(tmp_pth, e)
+            except KeyboardInterrupt:
+                pass
 
 
 def download_dataset():
@@ -49,7 +68,7 @@ def download_dataset():
     print(f"\nFound {len(left_to_download)} cases to download\n")
     for case_num in (pbar := tqdm(left_to_download)):
         pbar.set_description(f"Dowloading case_{case_num:05d}...")
-        download_case(case_num)
+        download_case(case_num, pbar)
 
 
 if __name__ == "__main__":
