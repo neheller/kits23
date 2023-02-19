@@ -53,7 +53,7 @@ def get_containing_box(dln, shape):
 
     abs_zmin = 0
     abs_zmax = shape[0] - 1
-    return {
+    ret = {
         "xmin": max(0, int(np.floor(mins[0] - max_sz))),
         "xmax": min(shape[2] - 1, int(np.ceil(maxs[0] + max_sz))),
         "ymin": max(0, int(np.floor(mins[1] - max_sz))),
@@ -64,6 +64,19 @@ def get_containing_box(dln, shape):
         "xdim": shape[2],
         "ydim": shape[1],
         "zdim": shape[0]
+    }
+    
+    return {
+        "xmax": max(ret["xmax"], ret["xmin"]),
+        "xmin": min(ret["xmax"], ret["xmin"]),
+        "ymax": max(ret["ymax"], ret["ymin"]),
+        "ymin": min(ret["ymax"], ret["ymin"]),
+        "zmax": max(ret["zmax"], ret["zmin"]),
+        "zmin": min(ret["zmax"], ret["zmin"]),
+        "step": ret["step"],
+        "xdim": ret["xdim"],
+        "ydim": ret["ydim"],
+        "zdim": ret["zdim"]
     }
 
 
@@ -730,13 +743,6 @@ def delineation_to_seg(
     # Read CT scan
     img_nib = nib.load(str(image_path))
 
-    # Flip if case_id >= 400 ( :( oops - import to server had issue )
-    if int(case_id[-5:]) >= 400:
-        img_nib = nib.Nifti1Image(
-            np.flip(np.asanyarray(img_nib.dataobj), axis=0).copy(),
-            img_nib.affine
-        )
-
     # Crop image to the smallest possible box for memory/computational efficiency
     cbox = get_containing_box(dln, img_nib.shape)
     cropped_img = get_cropped_scan(cbox, img_nib)
@@ -757,12 +763,6 @@ def delineation_to_seg(
 
     # Return the seg in nifti format
     ret = nib.Nifti1Image(seg.astype(np.uint8), img_nib.affine)
-
-    # Flip if case_id >= 400 ( :( oops - import to server had issue )
-    if int(case_id[-5:]) >= 400:
-        ret = nib.Nifti1Image(
-            np.flip(np.asanyarray(ret.dataobj), axis=0).copy(), ret.affine
-        )
 
     return ret
 

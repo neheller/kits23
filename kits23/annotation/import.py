@@ -361,6 +361,9 @@ def main(args):
                             reaggregate = True
                         except Exception as e:
                             print(f"Error importing {str(dln_file)}")
+                            raise(e)
+                    else:
+                        print("Skipping", cache_key)
 
             # Delete any instances that were generated before but don't exist anymore
             generated_instances = get_existing_instances(region_dir)
