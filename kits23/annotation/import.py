@@ -354,10 +354,13 @@ def main(args):
                         args.regenerate or cache_key not in cache or
                         cache[cache_key] != dln_file.name
                     ):
-                        run_import(dln_file)
-                        cache[cache_key] = dln_file.name
-                        write_json(CACHE_FILE, cache)
-                        reaggregate = True
+                        try:
+                            run_import(dln_file)
+                            cache[cache_key] = dln_file.name
+                            write_json(CACHE_FILE, cache)
+                            reaggregate = True
+                        except Exception as e:
+                            print(f"Error importing {str(dln_file)}")
 
             # Delete any instances that were generated before but don't exist anymore
             generated_instances = get_existing_instances(region_dir)
