@@ -1,4 +1,5 @@
 dataset/*/*imaging.nii.gz
+dataset/*/raw
 
 
 # DEFAULTS BELOW ==============================================================
