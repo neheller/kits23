@@ -108,7 +108,11 @@ def main():
 
     # Review each case that needs reviewing
     for review_ind, case in enumerate(review_queue):
-        print(f"Reviewing {review_ind + 1} of {len(review_queue)}...")
+        case_id = case["case_id"]
+        print(
+            f"Reviewing case {case_id} "
+            f"({review_ind + 1} of {len(review_queue)})..."
+        )
         review_case(case, results, cache)
 
 
