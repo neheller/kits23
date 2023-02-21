@@ -57,10 +57,32 @@ def review_case(case, results, cache):
         if key[:len(case_id)] == case_id:
             review_result["delineation_files"].append(val)
 
-    # Solicit a decision
+    # Open the scan
     img_pth = src_pth / case_id / "imaging.nii.gz"
     seg_pth = src_pth / case_id / "segmentation.nii.gz"
     os.system(f"itksnap -g {str(img_pth)} -s {str(seg_pth)}")
+
+    # Solicit a decision
+    decision = None
+    while decision is None:
+        raw_decision = input("[y/n]: ")
+        if raw_decision.strip() == "y":
+            decision = "y"
+        elif raw_decision.strip() == "n":
+            decision = "n"
+    review_result["decision"] = decision
+
+    # If decision is "no", store notes
+    notes = None
+    if decision == "n":
+        notes = input("Notes: ")
+
+    # Store result
+    review_result["decision"] = decision
+    review_result["notes"] = notes
+    results[case_id] = review_result
+    with REVIEW_RESULTS_PTH.open('w') as f:
+        f.write(json.dumps(results, indent=2))
 
 
 def main():

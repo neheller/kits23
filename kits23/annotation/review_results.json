@@ -1,0 +1,573 @@
+{
+  "case_00400": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661100842_helle246.json",
+      "1661012876_helle246.json",
+      "1661100930_helle246.json",
+      "1661101246_helle246.json",
+      "1661101095_helle246.json",
+      "1661101287_helle246.json",
+      "1661101186_helle246.json",
+      "1661101022_helle246.json"
+    ]
+  },
+  "case_00401": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661128438_helle246.json",
+      "1661128211_helle246.json",
+      "1661128507_helle246.json"
+    ]
+  },
+  "case_00402": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661131781_helle246.json",
+      "1661131672_helle246.json",
+      "1661131945_helle246.json",
+      "1661131907_helle246.json"
+    ]
+  },
+  "case_00403": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661198152_helle246.json",
+      "1661197840_helle246.json",
+      "1661198613_helle246.json",
+      "1661198481_helle246.json",
+      "1661198517_helle246.json",
+      "1661198407_helle246.json"
+    ]
+  },
+  "case_00404": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661200026_helle246.json",
+      "1661199484_helle246.json",
+      "1661200697_helle246.json",
+      "1661200801_helle246.json",
+      "1661200604_helle246.json",
+      "1661200548_helle246.json",
+      "1661200212_helle246.json",
+      "1661200119_helle246.json",
+      "1661200420_helle246.json",
+      "1661200494_helle246.json",
+      "1661200246_helle246.json",
+      "1661200169_helle246.json",
+      "1661200065_helle246.json"
+    ]
+  },
+  "case_00405": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661220277_helle246.json",
+      "1661219894_helle246.json",
+      "1661220533_helle246.json"
+    ]
+  },
+  "case_00406": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661391728_helle246.json",
+      "1661391382_helle246.json",
+      "1661391982_helle246.json"
+    ]
+  },
+  "case_00407": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661392817_helle246.json",
+      "1661392524_helle246.json",
+      "1661392904_helle246.json"
+    ]
+  },
+  "case_00408": {
+    "decision": "n",
+    "notes": "Tumor badly cut off",
+    "delineation_files": [
+      "1662601812_helle246.json",
+      "1662601585_helle246.json",
+      "1661826766_helle246.json",
+      "1662601900_helle246.json",
+      "1661826544_helle246.json"
+    ]
+  },
+  "case_00409": {
+    "decision": "n",
+    "notes": "Gap between tumor and kidney",
+    "delineation_files": [
+      "1661867720_wooda10.json",
+      "1661867170_wooda10.json",
+      "1662601161_helle246.json",
+      "1661867832_wooda10.json"
+    ]
+  },
+  "case_00410": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1664153208_helle246.json",
+      "1664153030_helle246.json",
+      "1672925117_wooda10.json"
+    ]
+  },
+  "case_00411": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1664848485_axy186.json",
+      "1664849260_axy186.json",
+      "1672925211_wooda10.json"
+    ]
+  },
+  "case_00412": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1665945459_curryc6.json",
+      "1665944176_curryc6.json",
+      "1665946056_curryc6.json",
+      "1665945976_curryc6.json",
+      "1665945576_curryc6.json",
+      "1665945522_curryc6.json"
+    ]
+  },
+  "case_00413": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669921964_curryc6.json",
+      "1669921421_curryc6.json",
+      "1669922624_curryc6.json",
+      "1669922564_curryc6.json",
+      "1669922314_curryc6.json",
+      "1669922095_curryc6.json",
+      "1669922417_curryc6.json",
+      "1669922139_curryc6.json",
+      "1669922064_curryc6.json"
+    ]
+  },
+  "case_00414": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669923744_curryc6.json",
+      "1669923412_curryc6.json",
+      "1669924088_curryc6.json",
+      "1669923952_curryc6.json",
+      "1669923831_curryc6.json"
+    ]
+  },
+  "case_00415": {
+    "decision": "n",
+    "notes": "Part of left kidney cut off",
+    "delineation_files": [
+      "1670111212_curryc6.json",
+      "1670186401_curryc6.json",
+      "1670186799_curryc6.json"
+    ]
+  },
+  "case_00416": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670190526_curryc6.json",
+      "1670188770_curryc6.json",
+      "1672927067_wooda10.json",
+      "1672927148_wooda10.json",
+      "1670191021_curryc6.json",
+      "1670191288_curryc6.json",
+      "1670191158_curryc6.json",
+      "1670191387_curryc6.json",
+      "1670191312_curryc6.json",
+      "1670191231_curryc6.json",
+      "1670191098_curryc6.json"
+    ]
+  },
+  "case_00417": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670194629_curryc6.json",
+      "1670193501_curryc6.json",
+      "1670208015_curryc6.json",
+      "1670207285_curryc6.json",
+      "1670206981_curryc6.json",
+      "1670207182_curryc6.json",
+      "1670206793_curryc6.json"
+    ]
+  },
+  "case_00418": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670212774_curryc6.json",
+      "1670212145_curryc6.json",
+      "1672927716_wooda10.json",
+      "1670213186_curryc6.json",
+      "1670213134_curryc6.json",
+      "1670213226_curryc6.json",
+      "1670212961_curryc6.json",
+      "1670212878_curryc6.json",
+      "1670213060_curryc6.json",
+      "1670213084_curryc6.json",
+      "1670213009_curryc6.json",
+      "1670212906_curryc6.json",
+      "1670212848_curryc6.json"
+    ]
+  },
+  "case_00419": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670536379_curryc6.json",
+      "1670517750_curryc6.json",
+      "1670536783_curryc6.json"
+    ]
+  },
+  "case_00420": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670539725_curryc6.json",
+      "1670538194_curryc6.json",
+      "1670540176_curryc6.json"
+    ]
+  },
+  "case_00421": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670542624_curryc6.json",
+      "1670542096_curryc6.json",
+      "1670542712_curryc6.json"
+    ]
+  },
+  "case_00422": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672788312_curryc6.json",
+      "1672787953_curryc6.json",
+      "1672788412_curryc6.json"
+    ]
+  },
+  "case_00423": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672799431_curryc6.json",
+      "1672799138_curryc6.json",
+      "1672799503_curryc6.json"
+    ]
+  },
+  "case_00424": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672803757_curryc6.json",
+      "1672803412_curryc6.json",
+      "1672803872_curryc6.json",
+      "1672803808_curryc6.json"
+    ]
+  },
+  "case_00425": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669225882_abdalln.json",
+      "1669225653_abdalln.json",
+      "1669136487_abdalln.json"
+    ]
+  },
+  "case_00426": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669220376_abdalln.json",
+      "1669218482_abdalln.json",
+      "1669219315_abdalln.json",
+      "1669218631_abdalln.json"
+    ]
+  },
+  "case_00427": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669221798_abdalln.json",
+      "1669226191_abdalln.json",
+      "1672927816_wooda10.json",
+      "1669221309_abdalln.json"
+    ]
+  },
+  "case_00428": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669231057_abdalln.json",
+      "1669230549_abdalln.json",
+      "1672928053_wooda10.json",
+      "1669230045_abdalln.json",
+      "1669229919_abdalln.json",
+      "1669229853_abdalln.json"
+    ]
+  },
+  "case_00429": {
+    "decision": "n",
+    "notes": "Hilum problems",
+    "delineation_files": [
+      "1669232423_abdalln.json",
+      "1669232121_abdalln.json",
+      "1669232587_abdalln.json",
+      "1669232471_abdalln.json"
+    ]
+  },
+  "case_00430": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669235259_abdalln.json",
+      "1669233637_abdalln.json",
+      "1669235057_abdalln.json"
+    ]
+  },
+  "case_00431": {
+    "decision": "n",
+    "notes": "Gap between tumor and kidney",
+    "delineation_files": [
+      "1669650263_abdalln.json",
+      "1669237338_abdalln.json",
+      "1669237335_abdalln.json"
+    ]
+  },
+  "case_00432": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669653795_abdalln.json",
+      "1669652000_abdalln.json",
+      "1669652091_abdalln.json",
+      "1669652736_abdalln.json",
+      "1669651146_abdalln.json"
+    ]
+  },
+  "case_00433": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669657742_abdalln.json",
+      "1669656982_abdalln.json",
+      "1669656370_abdalln.json",
+      "1669655823_abdalln.json",
+      "1669655564_abdalln.json"
+    ]
+  },
+  "case_00434": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669659627_abdalln.json",
+      "1669659975_abdalln.json",
+      "1669658946_abdalln.json",
+      "1669658852_abdalln.json",
+      "1669658763_abdalln.json",
+      "1669659321_abdalln.json",
+      "1669658823_abdalln.json",
+      "1669658702_abdalln.json"
+    ]
+  },
+  "case_00435": {
+    "decision": "n",
+    "notes": "Hilum problems",
+    "delineation_files": [
+      "1669225184_abdalln.json",
+      "1669225488_abdalln.json",
+      "1669224805_abdalln.json"
+    ]
+  },
+  "case_00436": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669228575_abdalln.json",
+      "1669227591_abdalln.json",
+      "1669228511_abdalln.json",
+      "1669228389_abdalln.json"
+    ]
+  },
+  "case_00437": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670859609_abdalln.json",
+      "1670858901_abdalln.json",
+      "1670860000_abdalln.json"
+    ]
+  },
+  "case_00438": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670860865_abdalln.json",
+      "1670861219_abdalln.json",
+      "1670861738_abdalln.json",
+      "1670861458_abdalln.json"
+    ]
+  },
+  "case_00439": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670863209_abdalln.json",
+      "1670862787_abdalln.json",
+      "1670863479_abdalln.json"
+    ]
+  },
+  "case_00440": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670864554_abdalln.json",
+      "1670864302_abdalln.json",
+      "1670864833_abdalln.json",
+      "1670864601_abdalln.json"
+    ]
+  },
+  "case_00441": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670866146_abdalln.json",
+      "1670865807_abdalln.json",
+      "1670866270_abdalln.json"
+    ]
+  },
+  "case_00442": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669746134_axy186.json",
+      "1668182008_axy186.json",
+      "1671461667_axy186.json",
+      "1669836207_axy186.json",
+      "1669834200_axy186.json"
+    ]
+  },
+  "case_00443": {
+    "decision": "n",
+    "notes": "Incomplete",
+    "delineation_files": [
+      "1669736615_axy186.json",
+      "1671462651_axy186.json",
+      "1670344846_axy186.json",
+      "1671462885_axy186.json",
+      "1671462244_axy186.json",
+      "1670344166_axy186.json"
+    ]
+  },
+  "case_00444": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670957035_axy186.json",
+      "1668436994_axy186.json",
+      "1668438723_axy186.json"
+    ]
+  },
+  "case_00445": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670957215_axy186.json",
+      "1668523566_axy186.json",
+      "1668523742_axy186.json",
+      "1668523118_axy186.json",
+      "1668519892_axy186.json"
+    ]
+  },
+  "case_00446": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668526548_axy186.json",
+      "1670957308_axy186.json",
+      "1668530171_axy186.json"
+    ]
+  },
+  "case_00447": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668551621_axy186.json",
+      "1668550963_axy186.json",
+      "1673371574_wooda10.json",
+      "1668551027_axy186.json",
+      "1668551733_axy186.json",
+      "1668551784_axy186.json",
+      "1668551711_axy186.json"
+    ]
+  },
+  "case_00448": {
+    "decision": "n",
+    "notes": "One bad hilum slice",
+    "delineation_files": [
+      "1668621247_axy186.json",
+      "1668611717_axy186.json",
+      "1668621333_axy186.json"
+    ]
+  },
+  "case_00449": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668631027_axy186.json",
+      "1668628110_axy186.json",
+      "1668631955_axy186.json"
+    ]
+  },
+  "case_00450": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668700126_axy186.json",
+      "1668699322_axy186.json",
+      "1668700383_axy186.json"
+    ]
+  },
+  "case_00451": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668723171_axy186.json",
+      "1668722617_axy186.json",
+      "1668778885_axy186.json"
+    ]
+  },
+  "case_00452": {
+    "decision": "n",
+    "notes": "Missing left kidney",
+    "delineation_files": [
+      "1668785966_axy186.json",
+      "1668784845_axy186.json",
+      "1668795707_axy186.json"
+    ]
+  },
+  "case_00453": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668808109_axy186.json",
+      "1668797669_axy186.json",
+      "1668808372_axy186.json"
+    ]
+  }
+}
