@@ -2072,5 +2072,41 @@
       "1676814824_wooda10.json",
       "1676818664_wooda10.json"
     ]
+  },
+  "case_00516": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676857044_curryc6.json",
+      "1676856175_curryc6.json",
+      "1676857273_curryc6.json",
+      "1676857135_curryc6.json"
+    ]
+  },
+  "case_00517": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676859164_curryc6.json",
+      "1676858605_curryc6.json",
+      "1676860201_curryc6.json",
+      "1676859739_curryc6.json",
+      "1676859831_curryc6.json",
+      "1676859585_curryc6.json"
+    ]
+  },
+  "case_00518": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676862095_curryc6.json",
+      "1676861408_curryc6.json",
+      "1676863524_curryc6.json",
+      "1676863264_curryc6.json",
+      "1676862994_curryc6.json",
+      "1676863323_curryc6.json",
+      "1676863115_curryc6.json",
+      "1676862870_curryc6.json"
+    ]
   }
 }
