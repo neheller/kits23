@@ -322,8 +322,8 @@
     ]
   },
   "case_00429": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1669232423_abdalln.json",
       "1669232121_abdalln.json",
@@ -341,12 +341,12 @@
     ]
   },
   "case_00431": {
-    "decision": "n",
-    "notes": "Gap between tumor and kidney",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1669650263_abdalln.json",
-      "1669237338_abdalln.json",
-      "1669237335_abdalln.json"
+      "1677035870_helle246.json",
+      "1677035745_helle246.json"
     ]
   },
   "case_00432": {
