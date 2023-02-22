@@ -91,22 +91,22 @@
     ]
   },
   "case_00408": {
-    "decision": "n",
-    "notes": "Tumor badly cut off",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1662601812_helle246.json",
       "1662601585_helle246.json",
-      "1661826766_helle246.json",
+      "1677034611_helle246.json",
       "1662601900_helle246.json",
       "1661826544_helle246.json"
     ]
   },
   "case_00409": {
-    "decision": "n",
-    "notes": "Gap between tumor and kidney",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1661867720_wooda10.json",
-      "1661867170_wooda10.json",
+      "1677034944_helle246.json",
       "1662601161_helle246.json",
       "1661867832_wooda10.json"
     ]
@@ -168,10 +168,10 @@
     ]
   },
   "case_00415": {
-    "decision": "n",
-    "notes": "Part of left kidney cut off",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1670111212_curryc6.json",
+      "1677035100_helle246.json",
       "1670186401_curryc6.json",
       "1670186799_curryc6.json"
     ]
