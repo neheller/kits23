@@ -386,8 +386,8 @@
     ]
   },
   "case_00435": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1669225184_abdalln.json",
       "1669225488_abdalln.json",
@@ -464,14 +464,19 @@
   },
   "case_00443": {
     "decision": "n",
-    "notes": "Incomplete",
+    "notes": "Still incomplete",
     "delineation_files": [
       "1669736615_axy186.json",
       "1671462651_axy186.json",
       "1670344846_axy186.json",
       "1671462885_axy186.json",
       "1671462244_axy186.json",
-      "1670344166_axy186.json"
+      "1670344166_axy186.json",
+      "1677117120_helle246.json",
+      "1677117323_helle246.json",
+      "1677117279_helle246.json",
+      "1677117193_helle246.json",
+      "1677117247_helle246.json"
     ]
   },
   "case_00444": {
@@ -517,10 +522,10 @@
     ]
   },
   "case_00448": {
-    "decision": "n",
-    "notes": "One bad hilum slice",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1668621247_axy186.json",
+      "1677117373_helle246.json",
       "1668611717_axy186.json",
       "1668621333_axy186.json"
     ]
@@ -553,12 +558,13 @@
     ]
   },
   "case_00452": {
-    "decision": "n",
-    "notes": "Missing left kidney",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1668785966_axy186.json",
       "1668784845_axy186.json",
-      "1668795707_axy186.json"
+      "1668795707_axy186.json",
+      "1677119450_helle246.json"
     ]
   },
   "case_00453": {
@@ -615,8 +621,8 @@
     ]
   },
   "case_00458": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1669759968_axy186.json",
       "1669749157_axy186.json",
@@ -634,8 +640,8 @@
     ]
   },
   "case_00460": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1669222109_axy186.json",
       "1669221641_axy186.json",
