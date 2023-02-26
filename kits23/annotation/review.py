@@ -4,7 +4,7 @@ import os
 import json
 from pathlib import Path
 
-from kits23 import TRAINING_CASE_NUMBERS, TESTING_CASE_NUMBERS
+from kits23 import TRAINING_CASE_NUMBERS, TESTING_CASE_NUMBERS, EXCLUDE_LIST
 from kits23.configuration.paths import TRAINING_DIR, TESTING_DIR
 
 
@@ -57,6 +57,12 @@ def review_case(case, results, cache):
         if key[:len(case_id)] == case_id:
             review_result["delineation_files"].append(val)
 
+    # Print old review, if any
+    old_note = "n/a"
+    if case_id in results and results[case_id]["notes"] is not None:
+        old_note = results[case_id]["notes"]
+    print("\nFormerly:", old_note)
+
     # Open the scan
     img_pth = src_pth / case_id / "imaging.nii.gz"
     seg_pth = src_pth / case_id / "segmentation.nii.gz"
@@ -99,6 +105,8 @@ def main():
     # Iterate through case_ids and decide whether to review based on cache
     review_queue = []
     for case_num in TRAINING_CASE_NUMBERS + TESTING_CASE_NUMBERS:
+        if case_num in EXCLUDE_LIST:
+            continue
         case_id = f"case_{case_num:05d}"
         if needs_review(case_num, case_id, results, cache):
             review_queue.append({
@@ -114,6 +122,20 @@ def main():
             f"({review_ind + 1} of {len(review_queue)})..."
         )
         review_case(case, results, cache)
+
+    # Summarize review results
+    training_remaining = 0
+    for key in results:
+        if results[key]["decision"] == "n":
+            case_num = int(key[-5:])
+            if case_num in EXCLUDE_LIST:
+                continue
+            if case_num in TRAINING_CASE_NUMBERS:
+                training_remaining += 1
+            note = results[key]["notes"]
+            print(f"{key}: {note}")
+
+    print(f"\n{training_remaining} CASES REMAINING\n")
 
 
 if __name__ == "__main__":
