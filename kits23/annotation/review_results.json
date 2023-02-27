@@ -930,12 +930,12 @@
     ]
   },
   "case_00489": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675178517_erguno.json",
-      "1675178270_erguno.json",
-      "1675178587_erguno.json"
+      "1677464175_helle246.json",
+      "1677463952_helle246.json",
+      "1677464372_helle246.json"
     ]
   },
   "case_00490": {
@@ -957,12 +957,11 @@
     ]
   },
   "case_00492": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1677453041_helle246.json",
       "1677452945_helle246.json",
-      "1675699557_wooda10.json",
       "1675699557_wooda10.json",
       "1670957732_harrisk29.json"
     ]
@@ -1105,11 +1104,11 @@
     ]
   },
   "case_00506": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1671645023_ghadyzgheib.json",
-      "1671644747_ghadyzgheib.json",
+      "1677464751_helle246.json",
       "1671650123_ghadyzgheib.json",
       "1671650080_ghadyzgheib.json",
       "1671649932_ghadyzgheib.json",
@@ -1122,26 +1121,26 @@
     ]
   },
   "case_00507": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1672806653_curryc6.json",
-      "1672805821_curryc6.json",
       "1672807411_curryc6.json",
       "1672807338_curryc6.json",
       "1672806969_curryc6.json",
       "1672806820_curryc6.json",
       "1672807218_curryc6.json",
       "1672806875_curryc6.json",
-      "1672806720_curryc6.json"
+      "1672806720_curryc6.json",
+      "1677465482_helle246.json",
+      "1672805821_curryc6.json"
     ]
   },
   "case_00508": {
     "decision": "n",
-    "notes": "Chunk of kidney missing",
+    "notes": "Check on tumors",
     "delineation_files": [
       "1672810291_curryc6.json",
-      "1672809680_curryc6.json",
+      "1677464984_helle246.json",
       "1672811862_curryc6.json",
       "1672929061_curryc6.json",
       "1672811667_curryc6.json",
@@ -1888,11 +1887,11 @@
   },
   "case_00574": {
     "decision": "n",
-    "notes": "Gap",
+    "notes": "Double annotation and gap",
     "delineation_files": [
       "1676162506_erguno.json",
       "1676162388_erguno.json",
-      "1676162544_erguno.json",
+      "1677465193_helle246.json",
       "1676162586_erguno.json",
       "1677428945_wooda10.json"
     ]
