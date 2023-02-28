@@ -898,35 +898,35 @@
     ]
   },
   "case_00486": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675117608_erguno.json",
-      "1675117447_erguno.json",
-      "1675117771_erguno.json",
-      "1675117725_erguno.json",
-      "1675117663_erguno.json",
-      "1675117643_erguno.json"
+      "1677557547_helle246.json",
+      "1677557787_helle246.json",
+      "1677555880_helle246.json",
+      "1677555846_helle246.json",
+      "1677555626_helle246.json"
     ]
   },
   "case_00487": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675119845_erguno.json",
-      "1675119615_erguno.json",
-      "1675120017_erguno.json",
-      "1675119874_erguno.json"
+      "1677556354_helle246.json",
+      "1677556264_helle246.json",
+      "1677522463_abdalln.json",
+      "1677521888_abdalln.json",
+      "1677522221_abdalln.json"
     ]
   },
   "case_00488": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675124856_erguno.json",
-      "1675123981_erguno.json",
-      "1675124968_erguno.json",
-      "1675124881_erguno.json"
+      "1677523508_abdalln.json",
+      "1677523172_abdalln.json",
+      "1677523725_abdalln.json",
+      "1677523555_abdalln.json"
     ]
   },
   "case_00489": {
@@ -1131,7 +1131,7 @@
       "1672807218_curryc6.json",
       "1672806875_curryc6.json",
       "1672806720_curryc6.json",
-      "1677465482_helle246.json",
+      "1677465536_helle246.json",
       "1672805821_curryc6.json"
     ]
   },
@@ -1737,11 +1737,11 @@
     ]
   },
   "case_00560": {
-    "decision": "n",
-    "notes": "Gaps",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675317406_erguno.json",
-      "1675317226_erguno.json",
+      "1677514716_axy186.json",
+      "1677513251_axy186.json",
       "1677421465_wooda10.json",
       "1677445447_wooda10.json",
       "1677445514_wooda10.json",
@@ -1758,20 +1758,20 @@
     ]
   },
   "case_00562": {
-    "decision": "n",
-    "notes": "gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675572699_erguno.json",
-      "1675572355_erguno.json",
+      "1677524072_axy186.json",
+      "1677522727_axy186.json",
       "1677423417_wooda10.json"
     ]
   },
   "case_00563": {
     "decision": "n",
-    "notes": "Gap and kidney cleanup",
+    "notes": "Slice of tumor missing",
     "delineation_files": [
       "1675574521_erguno.json",
-      "1675574125_erguno.json",
+      "1677527020_axy186.json",
       "1677424043_wooda10.json",
       "1677445648_wooda10.json",
       "1677445562_wooda10.json"
@@ -1841,11 +1841,11 @@
     ]
   },
   "case_00570": {
-    "decision": "n",
-    "notes": "gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675822346_erguno.json",
-      "1675821916_erguno.json",
+      "1677510288_abdalln.json",
+      "1677510266_abdalln.json",
       "1677427365_wooda10.json",
       "1677447507_wooda10.json",
       "1677426942_wooda10.json"
@@ -1853,20 +1853,20 @@
   },
   "case_00571": {
     "decision": "n",
-    "notes": "gap",
+    "notes": "Hilum problems",
     "delineation_files": [
-      "1675837766_erguno.json",
-      "1675837648_erguno.json",
+      "1677510951_abdalln.json",
+      "1677510748_abdalln.json",
       "1677427656_wooda10.json",
       "1677447575_wooda10.json"
     ]
   },
   "case_00572": {
     "decision": "n",
-    "notes": "gap",
+    "notes": "Hilum problems, and tumor wrapped",
     "delineation_files": [
-      "1675867631_erguno.json",
-      "1675867470_erguno.json",
+      "1677511551_abdalln.json",
+      "1677511337_abdalln.json",
       "1677428090_wooda10.json",
       "1677447776_wooda10.json",
       "1677447710_wooda10.json"
@@ -1874,10 +1874,10 @@
   },
   "case_00573": {
     "decision": "n",
-    "notes": "gap",
+    "notes": "Hilum problems",
     "delineation_files": [
-      "1675924149_erguno.json",
-      "1675924007_erguno.json",
+      "1677512248_abdalln.json",
+      "1677511916_abdalln.json",
       "1677428695_wooda10.json",
       "1677448283_wooda10.json",
       "1677447922_wooda10.json",
@@ -1887,29 +1887,29 @@
   },
   "case_00574": {
     "decision": "n",
-    "notes": "Double annotation and gap",
+    "notes": "Cyst on top of tumor",
     "delineation_files": [
-      "1676162506_erguno.json",
-      "1676162388_erguno.json",
+      "1677512786_abdalln.json",
+      "1677512599_abdalln.json",
       "1677465193_helle246.json",
       "1676162586_erguno.json",
       "1677428945_wooda10.json"
     ]
   },
   "case_00575": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1676166901_erguno.json",
-      "1676166729_erguno.json",
+      "1677513186_abdalln.json",
+      "1677513286_abdalln.json",
       "1677429020_wooda10.json"
     ]
   },
   "case_00576": {
     "decision": "n",
-    "notes": "gap",
+    "notes": "Check on cysts",
     "delineation_files": [
-      "1676168541_erguno.json",
+      "1677513604_abdalln.json",
       "1677429279_wooda10.json",
       "1677448542_wooda10.json",
       "1677448492_wooda10.json"
@@ -1917,36 +1917,37 @@
   },
   "case_00577": {
     "decision": "n",
-    "notes": "Right kidney missing, and hilum problems on left",
+    "notes": "Hilum problems",
     "delineation_files": [
       "1676187759_erguno.json",
-      "1677430038_wooda10.json"
+      "1677430038_wooda10.json",
+      "1677513793_abdalln.json"
     ]
   },
   "case_00578": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1676189724_erguno.json",
-      "1676189550_erguno.json",
+      "1677514294_abdalln.json",
+      "1677514039_abdalln.json",
       "1677430339_wooda10.json"
     ]
   },
   "case_00579": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1676230540_erguno.json",
-      "1676230274_erguno.json",
+      "1677514614_abdalln.json",
+      "1677514687_abdalln.json",
       "1677430420_wooda10.json"
     ]
   },
   "case_00580": {
     "decision": "n",
-    "notes": "gap",
+    "notes": "Hilum problems",
     "delineation_files": [
-      "1676263006_erguno.json",
-      "1676262793_erguno.json",
+      "1677515166_abdalln.json",
+      "1677514967_abdalln.json",
       "1677430746_wooda10.json",
       "1677449543_wooda10.json",
       "1677449432_wooda10.json"
@@ -1954,19 +1955,19 @@
   },
   "case_00581": {
     "decision": "n",
-    "notes": "Hilum problems",
+    "notes": "Clean up tumor",
     "delineation_files": [
-      "1676263929_erguno.json",
-      "1676263692_erguno.json",
+      "1677516797_abdalln.json",
+      "1677516652_abdalln.json",
       "1676264055_erguno.json"
     ]
   },
   "case_00582": {
-    "decision": "n",
-    "notes": "Gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1676265158_erguno.json",
-      "1676264701_erguno.json",
+      "1677517429_abdalln.json",
+      "1677517422_abdalln.json",
       "1676265875_erguno.json"
     ]
   },
@@ -2128,12 +2129,17 @@
   },
   "case_00472": {
     "decision": "n",
-    "notes": "Cysts are missing",
+    "notes": "Cysts need some help",
     "delineation_files": [
       "1677266794_wooda10.json",
       "1677266266_wooda10.json",
       "1677267200_wooda10.json",
-      "1677266959_wooda10.json"
+      "1677266959_wooda10.json",
+      "1677514334_erguno.json",
+      "1677514057_erguno.json",
+      "1677514735_erguno.json",
+      "1677514088_erguno.json",
+      "1677514039_erguno.json"
     ]
   },
   "case_00595": {
