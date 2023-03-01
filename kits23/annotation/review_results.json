@@ -1798,21 +1798,21 @@
   },
   "case_00566": {
     "decision": "n",
-    "notes": "Double annotation",
+    "notes": "Double annotation and missing chunk",
     "delineation_files": [
       "1677621810_axy186.json",
-      "1675726976_erguno.json",
+      "1677620934_axy186.json",
       "1677425981_wooda10.json",
       "1675727339_erguno.json",
       "1677425981_wooda10.json"
     ]
   },
   "case_00567": {
-    "decision": "n",
-    "notes": "gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675729346_erguno.json",
-      "1675729212_erguno.json",
+      "1677637279_axy186.json",
+      "1677636788_axy186.json",
       "1677426265_wooda10.json",
       "1677445748_wooda10.json"
     ]
