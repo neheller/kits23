@@ -730,17 +730,18 @@
     "decision": "y",
     "notes": null,
     "delineation_files": [
-      "1677361135_helle246.json",
-      "1677361122_helle246.json",
-      "1672182199_erguno.json"
+      "1677562270_curryc6.json",
+      "1677560452_curryc6.json",
+      "1677562575_curryc6.json",
+      "1677562645_curryc6.json"
     ]
   },
   "case_00470": {
     "decision": "y",
     "notes": null,
     "delineation_files": [
-      "1677361872_helle246.json",
-      "1677361592_helle246.json",
+      "1677617491_curryc6.json",
+      "1677617420_curryc6.json",
       "1672701789_erguno.json",
       "1672699910_erguno.json",
       "1672701004_erguno.json",
@@ -1749,11 +1750,11 @@
     ]
   },
   "case_00561": {
-    "decision": "n",
-    "notes": "gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675571208_erguno.json",
-      "1675570926_erguno.json",
+      "1677603099_axy186.json",
+      "1677600840_axy186.json",
       "1677423077_wooda10.json"
     ]
   },
@@ -1768,9 +1769,9 @@
   },
   "case_00563": {
     "decision": "n",
-    "notes": "Slice of tumor missing",
+    "notes": "Missing slice of tumor",
     "delineation_files": [
-      "1675574521_erguno.json",
+      "1677599856_axy186.json",
       "1677527020_axy186.json",
       "1677424043_wooda10.json",
       "1677445648_wooda10.json",
@@ -1778,30 +1779,30 @@
     ]
   },
   "case_00564": {
-    "decision": "n",
-    "notes": "gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675630530_erguno.json",
-      "1675630342_erguno.json",
+      "1677610606_axy186.json",
+      "1677609828_axy186.json",
       "1677424497_wooda10.json"
     ]
   },
   "case_00565": {
     "decision": "n",
-    "notes": "gap",
+    "notes": "Tumor incomplete",
     "delineation_files": [
-      "1675637958_erguno.json",
-      "1675637645_erguno.json",
+      "1677612741_axy186.json",
+      "1677611654_axy186.json",
       "1677425480_wooda10.json"
     ]
   },
   "case_00566": {
     "decision": "n",
-    "notes": "Something double annotated as cyst and tumor -- also, gap",
+    "notes": "Double annotation",
     "delineation_files": [
-      "1675727276_erguno.json",
+      "1677621810_axy186.json",
       "1675726976_erguno.json",
-      "1675727840_erguno.json",
+      "1677425981_wooda10.json",
       "1675727339_erguno.json",
       "1677425981_wooda10.json"
     ]

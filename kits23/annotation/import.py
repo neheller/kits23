@@ -243,12 +243,29 @@ def aggregate(parent, region, idnum, agg, affine, agtype="maj"):
     return agg, affine
 
 
-def aggregate_case(case_id):
+def purge_file(file_pth: Path):
+    if input(f"Delete {str(file_pth)}? [y/n]: ") == "y":
+        file_pth.unlink()
+
+
+def aggregate_case(case_id, cache):
     base_dir = TRAINING_DIR
     if int(case_id.split("_")[-1]) in TESTING_CASE_NUMBERS:
         base_dir = TESTING_DIR
 
     segs =  base_dir / case_id / "instances"
+
+    # Delete instances that no-longer exist (if any)
+    for seg in segs.glob("*.nii.gz"):
+        purge = True
+        rtype = seg.stem.split("_")[0]
+        instnum = int(seg.stem.split("_")[1].split("-")[1]) - 1
+        cache_key_prefix = f"{case_id}/{rtype}/{instnum:02d}"
+        for key in cache:
+            if key[:len(cache_key_prefix)] == cache_key_prefix:
+                purge = False
+        if purge:
+            purge_file(seg)
 
     affine = None
     agg = None
@@ -378,7 +395,7 @@ def main(args):
                     reaggregate = True
 
         if reaggregate:
-            aggregate_case(case_dir.name, )
+            aggregate_case(case_dir.name, cache)
         
         # Clean up all unused raw files
         cleanup(case_dir)
