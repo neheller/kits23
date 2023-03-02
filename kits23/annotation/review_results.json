@@ -740,37 +740,38 @@
     "decision": "y",
     "notes": null,
     "delineation_files": [
-      "1677617491_curryc6.json",
+      "1677691226_curryc6.json",
       "1677617420_curryc6.json",
-      "1672701789_erguno.json",
-      "1672699910_erguno.json",
-      "1672701004_erguno.json",
-      "1672701143_erguno.json",
-      "1672700968_erguno.json",
+      "1677692175_curryc6.json",
+      "1677714818_curryc6.json",
+      "1677714638_curryc6.json",
+      "1677714592_curryc6.json",
+      "1677714660_curryc6.json",
       "1672701403_erguno.json",
-      "1672701487_erguno.json",
-      "1672701188_erguno.json",
-      "1677265507_wooda10.json",
-      "1672701168_erguno.json",
-      "1672699976_erguno.json",
-      "1672701700_erguno.json",
-      "1672700830_erguno.json",
-      "1672701437_erguno.json",
-      "1672701586_erguno.json",
+      "1677692849_curryc6.json",
+      "1677714471_curryc6.json",
+      "1677714678_curryc6.json",
+      "1677714496_curryc6.json",
+      "1677714795_curryc6.json",
+      "1677714433_curryc6.json",
+      "1677714742_curryc6.json",
+      "1677693041_curryc6.json",
+      "1677714347_curryc6.json",
       "1672700900_erguno.json",
-      "1672700926_erguno.json",
-      "1677265695_wooda10.json",
-      "1677265829_wooda10.json"
+      "1677714698_curryc6.json",
+      "1677691993_curryc6.json",
+      "1677714155_curryc6.json",
+      "1677692723_curryc6.json"
     ]
   },
   "case_00471": {
     "decision": "y",
     "notes": null,
     "delineation_files": [
-      "1677362129_helle246.json",
-      "1677362160_helle246.json",
-      "1672702294_erguno.json",
-      "1672702318_erguno.json"
+      "1677715829_curryc6.json",
+      "1677715960_curryc6.json",
+      "1677716127_curryc6.json",
+      "1677716001_curryc6.json"
     ]
   },
   "case_00473": {
@@ -787,7 +788,7 @@
     "notes": null,
     "delineation_files": [
       "1677362531_helle246.json",
-      "1677366004_helle246.json",
+      "1677722276_curryc6.json",
       "1677367069_helle246.json",
       "1672728579_erguno.json"
     ]
@@ -1818,10 +1819,10 @@
     ]
   },
   "case_00568": {
-    "decision": "n",
-    "notes": "gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675737709_erguno.json",
+      "1677684423_axy186.json",
       "1677426468_wooda10.json",
       "1677446427_wooda10.json",
       "1677446372_wooda10.json",
@@ -1831,11 +1832,11 @@
     ]
   },
   "case_00569": {
-    "decision": "n",
-    "notes": "gap",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1675819220_erguno.json",
-      "1675818824_erguno.json",
+      "1677687116_axy186.json",
+      "1677685676_axy186.json",
       "1677426679_wooda10.json",
       "1677447424_wooda10.json",
       "1677426813_wooda10.json"
@@ -1845,8 +1846,8 @@
     "decision": "y",
     "notes": null,
     "delineation_files": [
-      "1677510288_abdalln.json",
-      "1677510266_abdalln.json",
+      "1677696710_axy186.json",
+      "1677696276_axy186.json",
       "1677427365_wooda10.json",
       "1677447507_wooda10.json",
       "1677426942_wooda10.json"
@@ -1920,7 +1921,7 @@
     "decision": "n",
     "notes": "Hilum problems",
     "delineation_files": [
-      "1676187759_erguno.json",
+      "1677725943_helle246.json",
       "1677430038_wooda10.json",
       "1677513793_abdalln.json"
     ]
