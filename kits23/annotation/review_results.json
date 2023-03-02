@@ -788,7 +788,7 @@
     "notes": null,
     "delineation_files": [
       "1677362531_helle246.json",
-      "1677722276_curryc6.json",
+      "1677726296_curryc6.json",
       "1677367069_helle246.json",
       "1672728579_erguno.json"
     ]
@@ -1918,8 +1918,8 @@
     ]
   },
   "case_00577": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1677725943_helle246.json",
       "1677430038_wooda10.json",
