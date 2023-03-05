@@ -1135,19 +1135,17 @@
     ]
   },
   "case_00508": {
-    "decision": "n",
-    "notes": "Check on tumors",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1672810291_curryc6.json",
       "1677464984_helle246.json",
-      "1672811862_curryc6.json",
-      "1672929061_curryc6.json",
-      "1672811667_curryc6.json",
+      "1678058906_helle246.json",
       "1672810618_curryc6.json",
       "1672810498_curryc6.json",
-      "1672810738_curryc6.json",
-      "1672810666_curryc6.json",
-      "1672810545_curryc6.json",
+      "1678058650_helle246.json",
+      "1678058661_helle246.json",
+      "1678058656_helle246.json",
       "1672810429_curryc6.json"
     ]
   },

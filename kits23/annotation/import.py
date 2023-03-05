@@ -93,6 +93,7 @@ def update_raw(delineation_path, case_id, in_test_set):
     if not destination_parent.exists():
         destination_parent.mkdir()
     destination_parent = destination_parent / "raw"
+    shutil.rmtree(str(destination_parent))
     if not destination_parent.exists():
         destination_parent.mkdir()
 
