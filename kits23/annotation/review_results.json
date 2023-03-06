@@ -1262,12 +1262,12 @@
     ]
   },
   "case_00521": {
-    "decision": "n",
-    "notes": "Tumor shape",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1673463215_abdalln.json",
       "1673462749_abdalln.json",
-      "1673461927_abdalln.json"
+      "1678061695_helle246.json"
     ]
   },
   "case_00522": {
@@ -1294,12 +1294,12 @@
     ]
   },
   "case_00524": {
-    "decision": "n",
-    "notes": "Check on tumor",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1675793939_abdalln.json",
       "1675793707_abdalln.json",
-      "1675794220_abdalln.json",
+      "1678062057_helle246.json",
       "1677267746_wooda10.json"
     ]
   },
@@ -1374,25 +1374,25 @@
     ]
   },
   "case_00530": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1671465771_abdalln.json",
+      "1678063407_helle246.json",
       "1671464718_abdalln.json",
       "1671465213_abdalln.json"
     ]
   },
   "case_00531": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1671467741_abdalln.json",
-      "1671469809_abdalln.json",
-      "1671469674_abdalln.json",
-      "1671469965_abdalln.json",
+      "1678063797_helle246.json",
+      "1678063738_helle246.json",
+      "1678064166_helle246.json",
+      "1678063836_helle246.json",
       "1671467800_abdalln.json",
       "1671467833_abdalln.json",
-      "1671467767_abdalln.json"
+      "1678063820_helle246.json"
     ]
   },
   "case_00532": {
