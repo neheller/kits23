@@ -1450,10 +1450,10 @@
     ]
   },
   "case_00536": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1670867994_abdalln.json",
+      "1678422378_helle246.json",
       "1670867544_abdalln.json",
       "1670869179_abdalln.json",
       "1670868142_abdalln.json",
