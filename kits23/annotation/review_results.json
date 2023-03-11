@@ -1938,23 +1938,23 @@
     ]
   },
   "case_00580": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1677515166_abdalln.json",
-      "1677514967_abdalln.json",
+      "1678571049_helle246.json",
+      "1678571025_helle246.json",
       "1677430746_wooda10.json",
       "1677449543_wooda10.json",
       "1677449432_wooda10.json"
     ]
   },
   "case_00581": {
-    "decision": "n",
-    "notes": "Clean up tumor",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1677516797_abdalln.json",
+      "1678572745_helle246.json",
       "1677516652_abdalln.json",
-      "1676264055_erguno.json"
+      "1678572384_helle246.json"
     ]
   },
   "case_00582": {
