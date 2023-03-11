@@ -1883,14 +1883,12 @@
     ]
   },
   "case_00574": {
-    "decision": "n",
-    "notes": "Cyst on top of tumor",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1677512786_abdalln.json",
       "1677512599_abdalln.json",
-      "1677465193_helle246.json",
-      "1676162586_erguno.json",
-      "1677428945_wooda10.json"
+      "1677465193_helle246.json"
     ]
   },
   "case_00575": {

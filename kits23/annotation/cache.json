@@ -780,10 +780,6 @@
   "case_00573/cyst/01/delineation1": "1677447922_wooda10.json",
   "case_00573/cyst/02/delineation1": "1677448090_wooda10.json",
   "case_00573/cyst/00/delineation1": "1677447845_wooda10.json",
-  "case_00574/kidney/01/delineation1": "1677512786_abdalln.json",
-  "case_00574/kidney/00/delineation1": "1677512599_abdalln.json",
-  "case_00574/tumor/00/delineation1": "1677465193_helle246.json",
-  "case_00574/cyst/00/delineation1": "1676162586_erguno.json",
   "case_00575/kidney/01/delineation1": "1677513186_abdalln.json",
   "case_00575/kidney/00/delineation1": "1677513286_abdalln.json",
   "case_00575/tumor/00/delineation1": "1677429020_wooda10.json",
@@ -926,7 +922,6 @@
   "case_00566/tumor/01/delineation1": "1677425981_wooda10.json",
   "case_00569/tumor/01/delineation1": "1677426813_wooda10.json",
   "case_00570/tumor/01/delineation1": "1677426942_wooda10.json",
-  "case_00574/tumor/01/delineation1": "1677428945_wooda10.json",
   "case_00567/cyst/00/delineation1": "1677445748_wooda10.json",
   "case_00494/cyst/05/delineation1": "1670958011_harrisk29.json",
   "case_00500/kidney/01/delineation1": "1677455679_helle246.json",
@@ -995,5 +990,8 @@
   "case_00508/cyst/00/delineation1": "1672810429_curryc6.json",
   "case_00521/kidney/01/delineation1": "1673463215_abdalln.json",
   "case_00521/kidney/00/delineation1": "1673462749_abdalln.json",
-  "case_00521/tumor/00/delineation1": "1678061695_helle246.json"
+  "case_00521/tumor/00/delineation1": "1678061695_helle246.json",
+  "case_00574/kidney/01/delineation1": "1677512786_abdalln.json",
+  "case_00574/kidney/00/delineation1": "1677512599_abdalln.json",
+  "case_00574/tumor/00/delineation1": "1677465193_helle246.json"
 }
