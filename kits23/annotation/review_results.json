@@ -1901,11 +1901,11 @@
     ]
   },
   "case_00576": {
-    "decision": "n",
-    "notes": "Check on cysts",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1677513604_abdalln.json",
-      "1677429279_wooda10.json",
+      "1678569686_helle246.json",
       "1677448542_wooda10.json",
       "1677448492_wooda10.json"
     ]
