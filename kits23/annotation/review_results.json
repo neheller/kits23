@@ -1784,21 +1784,21 @@
     ]
   },
   "case_00565": {
-    "decision": "n",
-    "notes": "Tumor incomplete",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1677612741_axy186.json",
       "1677611654_axy186.json",
-      "1677425480_wooda10.json"
+      "1678562067_helle246.json"
     ]
   },
   "case_00566": {
-    "decision": "n",
-    "notes": "Double annotation and missing chunk",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1677621810_axy186.json",
+      "1678564544_helle246.json",
       "1677620934_axy186.json",
-      "1677425981_wooda10.json",
+      "1678562451_helle246.json",
       "1675727339_erguno.json",
       "1677425981_wooda10.json"
     ]
@@ -1849,31 +1849,31 @@
     ]
   },
   "case_00571": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1677510951_abdalln.json",
-      "1677510748_abdalln.json",
-      "1677427656_wooda10.json",
-      "1677447575_wooda10.json"
+      "1678565442_helle246.json",
+      "1678565337_helle246.json",
+      "1678564922_helle246.json",
+      "1678564972_helle246.json"
     ]
   },
   "case_00572": {
-    "decision": "n",
-    "notes": "Hilum problems, and tumor wrapped",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1677511551_abdalln.json",
-      "1677511337_abdalln.json",
-      "1677428090_wooda10.json",
-      "1677447776_wooda10.json",
-      "1677447710_wooda10.json"
+      "1678567365_helle246.json",
+      "1678567107_helle246.json",
+      "1678567694_helle246.json",
+      "1678565681_helle246.json",
+      "1678565668_helle246.json"
     ]
   },
   "case_00573": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1677512248_abdalln.json",
+      "1678567973_helle246.json",
       "1677511916_abdalln.json",
       "1677428695_wooda10.json",
       "1677448283_wooda10.json",
