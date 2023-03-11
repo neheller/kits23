@@ -2005,19 +2005,19 @@
   },
   "case_00587": {
     "decision": "n",
-    "notes": "Hilum problems, hypodense tumor",
+    "notes": "Need to address hypodense tumor",
     "delineation_files": [
-      "1675792270_harrisk29.json",
-      "1674050748_wooda10.json",
-      "1675792239_harrisk29.json"
+      "1678574429_helle246.json",
+      "1678574512_helle246.json",
+      "1678573668_helle246.json"
     ]
   },
   "case_00588": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1673987548_harrisk29.json",
-      "1673984698_harrisk29.json",
+      "1678574842_helle246.json",
+      "1678574812_helle246.json",
       "1674583532_harrisk29.json"
     ]
   },
@@ -2031,13 +2031,13 @@
   },
   "case_00590": {
     "decision": "n",
-    "notes": "Hilum problems",
+    "notes": "Hypodense tumor",
     "delineation_files": [
       "1675719586_wooda10.json",
       "1675718652_wooda10.json",
-      "1675719920_wooda10.json",
-      "1675721152_wooda10.json",
-      "1675719800_wooda10.json"
+      "1678575420_helle246.json",
+      "1678575206_helle246.json",
+      "1675719920_wooda10.json"
     ]
   },
   "case_00591": {
@@ -2050,21 +2050,21 @@
     ]
   },
   "case_00592": {
-    "decision": "n",
-    "notes": "Cyst shape",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1676496876_wooda10.json",
       "1676495123_wooda10.json",
-      "1676497302_wooda10.json",
-      "1676497459_wooda10.json",
-      "1676497117_wooda10.json",
+      "1678576200_helle246.json",
+      "1678575984_helle246.json",
+      "1678576261_helle246.json",
       "1676812508_wooda10.json",
-      "1676497662_wooda10.json",
+      "1678575677_helle246.json",
       "1676812754_wooda10.json",
-      "1676812860_wooda10.json",
+      "1678575789_helle246.json",
       "1676812645_wooda10.json",
-      "1676498593_wooda10.json",
-      "1676497543_wooda10.json"
+      "1678575775_helle246.json",
+      "1678575642_helle246.json"
     ]
   },
   "case_00593": {
@@ -2123,18 +2123,18 @@
     ]
   },
   "case_00472": {
-    "decision": "n",
-    "notes": "Cysts need some help",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1677266794_wooda10.json",
       "1677266266_wooda10.json",
       "1677267200_wooda10.json",
-      "1677266959_wooda10.json",
-      "1677514334_erguno.json",
-      "1677514057_erguno.json",
-      "1677514735_erguno.json",
-      "1677514088_erguno.json",
-      "1677514039_erguno.json"
+      "1678578161_helle246.json",
+      "1678577128_helle246.json",
+      "1678576390_helle246.json",
+      "1678578375_helle246.json",
+      "1678576449_helle246.json",
+      "1678576365_helle246.json"
     ]
   },
   "case_00595": {
