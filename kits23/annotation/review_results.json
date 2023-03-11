@@ -1693,12 +1693,12 @@
     ]
   },
   "case_00556": {
-    "decision": "n",
-    "notes": "Hydro as cyst",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1674847112_axy186.json",
-      "1674846297_axy186.json",
-      "1675698026_wooda10.json",
+      "1678560117_helle246.json",
+      "1678559887_helle246.json",
       "1674856424_axy186.json",
       "1674847765_axy186.json"
     ]
@@ -1713,11 +1713,11 @@
     ]
   },
   "case_00558": {
-    "decision": "n",
-    "notes": "Hilum problems",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
-      "1672946950_axy186.json",
-      "1672936626_axy186.json",
+      "1678561140_helle246.json",
+      "1678561438_helle246.json",
       "1673042546_axy186.json",
       "1672955389_axy186.json"
     ]
@@ -1764,12 +1764,12 @@
     ]
   },
   "case_00563": {
-    "decision": "n",
-    "notes": "Missing slice of tumor",
+    "decision": "y",
+    "notes": null,
     "delineation_files": [
       "1677599856_axy186.json",
       "1677527020_axy186.json",
-      "1677424043_wooda10.json",
+      "1678561642_helle246.json",
       "1677445648_wooda10.json",
       "1677445562_wooda10.json"
     ]
