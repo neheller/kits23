@@ -11,8 +11,8 @@ from kits23.annotation.postprocessing import delineation_to_seg, load_json, \
     write_json
 from kits23.configuration.labels import KITS_LABEL_NAMES, \
     LABEL_AGGREGATION_ORDER
-from kits23.configuration.paths import SRC_DIR, TRAINING_DIR, TESTING_DIR, \
-    CACHE_FILE, KITS21_PATH
+from kits23.configuration.paths import LEGACY_SRC_DIR, SRC_DIR, TRAINING_DIR, \
+    TESTING_DIR, CACHE_FILE, KITS21_PATH
 
 
 def get_case_dir(case):
@@ -21,14 +21,19 @@ def get_case_dir(case):
         "being in your environment variables. This functionality is intended "
         "to be used only by the KiTS organizers."
     )
+    assert LEGACY_SRC_DIR is not None, src_dir_msg
     assert SRC_DIR is not None, src_dir_msg
     # TODO remove hardcoding -- test both to find it
     page = int(case // 50)
-    tst = "training_data"
+    src_dir = LEGACY_SRC_DIR
     if case >= 300:
+        src_dir = SRC_DIR
+
+    tst = "training_data"
+    if case not in TRAINING_CASE_NUMBERS:
         tst = "testing_data"
     return (
-        SRC_DIR / tst / f"cases_{page:05d}" / f"case_{case:05d}"
+        src_dir / tst / f"cases_{page:05d}" / f"case_{case:05d}"
     ).resolve(strict=True)
 
 

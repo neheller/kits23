@@ -7,6 +7,10 @@ TESTING_DIR = (
     Path(os.environ["KITS23_TEST_DIR"]).resolve(strict=True)
     if "KITS23_TEST_DIR" in os.environ.keys() else None
 )
+LEGACY_SRC_DIR = (
+    Path(os.environ["KITS21_SERVER_DATA"]).resolve(strict=True)
+    if "KITS21_SERVER_DATA" in os.environ.keys() else None
+)
 SRC_DIR = (
     Path(os.environ["KITS23_SERVER_DATA"]).resolve(strict=True)
     if "KITS23_SERVER_DATA" in os.environ.keys() else None
