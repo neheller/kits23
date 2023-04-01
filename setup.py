@@ -8,9 +8,9 @@ setup(
     zip_safe=False,
     install_requires=[
         'numpy',
-        "scipy",
-        "scikit-image",
-        "opencv-python",
+        'scipy',
+        'scikit-image',
+        'opencv-python',
         'nibabel',
         'requests',
         'argparse',
