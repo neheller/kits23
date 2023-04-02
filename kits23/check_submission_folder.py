@@ -10,7 +10,15 @@ from tqdm import tqdm
 
 def check_submission_folder(submission_pth: Path, image_pth: Path):
     """Check the submission folder against the image folder to make sure all
-    cases are present and the shapes and affine matrices match."""
+    cases are present and the shapes and affine matrices match.
+    
+    Parameters:
+        submission_pth (Path): Path to the submission folder
+        image_pth (Path): Path to the image folder
+    
+    Returns:
+        None
+    """
     # Keep track of issues
     num_issues = 0
     value_warning = False
