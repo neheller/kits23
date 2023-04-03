@@ -5,6 +5,8 @@ import json
 
 import nibabel as nib
 import numpy as np
+import cv2
+import matplotlib.pyplot as plt
 
 from kits23 import TRAINING_CASE_NUMBERS, TESTING_CASE_NUMBERS
 from kits23.annotation.postprocessing import delineation_to_seg, load_json, \
@@ -202,6 +204,35 @@ def run_import(delineation_path):
     )
 
 
+def maybe_supplement(seg_np, seg_pth):
+    # Check whether there is a supplemental file
+    suppl_pth = seg_pth.parent / (".suppl." + seg_pth.name)
+    if not suppl_pth.exists():
+        return seg_np
+
+    # Indicate that we are supplementing
+    print("supplementing", str(seg_pth))
+
+    # Load supplemental file
+    suppl_nib = nib.load(str(suppl_pth))
+    suppl_np = np.asanyarray(suppl_nib.dataobj)
+
+    # Apply necessary additions
+    seg_np[suppl_np == 2] = 1
+
+    # Apply interior fill
+    for slice_id in range(seg_np.shape[0]):
+        if np.sum(seg_np[slice_id] == 1) == 0:
+            continue
+        slice_copy = seg_np[slice_id].copy()
+        mask = np.zeros(
+            (slice_copy.shape[0]+2, slice_copy.shape[1]+2), np.uint8
+        )
+        cv2.floodFill(slice_copy, mask, (0, 0), 1)
+        seg_np[slice_id][slice_copy == 0] = 1
+
+    return seg_np
+
 def aggregate(parent, region, idnum, agg, affine, agtype="maj"):
 
     seg_files = [x for x in parent.glob("{}*.nii.gz".format(region))]
@@ -219,6 +250,8 @@ def aggregate(parent, region, idnum, agg, affine, agtype="maj"):
             n_anns += 1
             if inst_agg is None:
                 inst_agg = np.asanyarray(seg_nib.dataobj)
+                # If there is a supplemental file for this case, use it
+                inst_agg = maybe_supplement(inst_agg, tfnm)
                 affine = seg_nib.affine
             else:
                 inst_agg = inst_agg + np.asanyarray(seg_nib.dataobj)
@@ -263,6 +296,9 @@ def aggregate_case(case_id, cache):
 
     # Delete instances that no-longer exist (if any)
     for seg in segs.glob("*.nii.gz"):
+        # Ignore supplemental files
+        if seg.stem[0] == ".":
+            continue
         purge = True
         rtype = seg.stem.split("_")[0]
         instnum = int(seg.stem.split("_")[1].split("-")[1]) - 1

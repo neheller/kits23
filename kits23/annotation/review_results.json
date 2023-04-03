@@ -1,2132 +1,2132 @@
 {
-    "case_00400": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661100842_helle246.json",
-        "1661012876_helle246.json",
-        "1661100930_helle246.json",
-        "1661101246_helle246.json",
-        "1661101095_helle246.json",
-        "1661101287_helle246.json",
-        "1661101186_helle246.json",
-        "1661101022_helle246.json"
-      ]
-    },
-    "case_00401": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661128438_helle246.json",
-        "1661128211_helle246.json",
-        "1661128507_helle246.json"
-      ]
-    },
-    "case_00402": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661131781_helle246.json",
-        "1661131672_helle246.json",
-        "1661131945_helle246.json",
-        "1661131907_helle246.json"
-      ]
-    },
-    "case_00403": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661198152_helle246.json",
-        "1661197840_helle246.json",
-        "1661198613_helle246.json",
-        "1661198481_helle246.json",
-        "1661198517_helle246.json",
-        "1661198407_helle246.json"
-      ]
-    },
-    "case_00404": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661200026_helle246.json",
-        "1661199484_helle246.json",
-        "1661200697_helle246.json",
-        "1661200801_helle246.json",
-        "1661200604_helle246.json",
-        "1661200548_helle246.json",
-        "1661200212_helle246.json",
-        "1661200119_helle246.json",
-        "1661200420_helle246.json",
-        "1661200494_helle246.json",
-        "1661200246_helle246.json",
-        "1661200169_helle246.json",
-        "1661200065_helle246.json"
-      ]
-    },
-    "case_00405": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661220277_helle246.json",
-        "1661219894_helle246.json",
-        "1661220533_helle246.json"
-      ]
-    },
-    "case_00406": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661391728_helle246.json",
-        "1661391382_helle246.json",
-        "1661391982_helle246.json"
-      ]
-    },
-    "case_00407": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661392817_helle246.json",
-        "1661392524_helle246.json",
-        "1661392904_helle246.json"
-      ]
-    },
-    "case_00408": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1662601812_helle246.json",
-        "1662601585_helle246.json",
-        "1677034611_helle246.json",
-        "1662601900_helle246.json",
-        "1661826544_helle246.json"
-      ]
-    },
-    "case_00409": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1661867720_wooda10.json",
-        "1677034944_helle246.json",
-        "1662601161_helle246.json",
-        "1661867832_wooda10.json"
-      ]
-    },
-    "case_00410": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1664153208_helle246.json",
-        "1664153030_helle246.json",
-        "1672925117_wooda10.json"
-      ]
-    },
-    "case_00411": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1664848485_axy186.json",
-        "1664849260_axy186.json",
-        "1672925211_wooda10.json"
-      ]
-    },
-    "case_00412": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1665945459_curryc6.json",
-        "1665944176_curryc6.json",
-        "1665946056_curryc6.json",
-        "1665945976_curryc6.json",
-        "1665945576_curryc6.json",
-        "1665945522_curryc6.json"
-      ]
-    },
-    "case_00413": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669921964_curryc6.json",
-        "1669921421_curryc6.json",
-        "1669922624_curryc6.json",
-        "1669922564_curryc6.json",
-        "1669922314_curryc6.json",
-        "1669922095_curryc6.json",
-        "1669922417_curryc6.json",
-        "1669922139_curryc6.json",
-        "1669922064_curryc6.json"
-      ]
-    },
-    "case_00414": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669923744_curryc6.json",
-        "1669923412_curryc6.json",
-        "1669924088_curryc6.json",
-        "1669923952_curryc6.json",
-        "1669923831_curryc6.json"
-      ]
-    },
-    "case_00415": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677035100_helle246.json",
-        "1670186401_curryc6.json",
-        "1670186799_curryc6.json"
-      ]
-    },
-    "case_00416": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670190526_curryc6.json",
-        "1670188770_curryc6.json",
-        "1672927067_wooda10.json",
-        "1672927148_wooda10.json",
-        "1670191021_curryc6.json",
-        "1670191288_curryc6.json",
-        "1670191158_curryc6.json",
-        "1670191387_curryc6.json",
-        "1670191312_curryc6.json",
-        "1670191231_curryc6.json",
-        "1670191098_curryc6.json"
-      ]
-    },
-    "case_00417": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670194629_curryc6.json",
-        "1670193501_curryc6.json",
-        "1670208015_curryc6.json",
-        "1670207285_curryc6.json",
-        "1670206981_curryc6.json",
-        "1670207182_curryc6.json",
-        "1670206793_curryc6.json"
-      ]
-    },
-    "case_00418": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670212774_curryc6.json",
-        "1670212145_curryc6.json",
-        "1672927716_wooda10.json",
-        "1670213186_curryc6.json",
-        "1670213134_curryc6.json",
-        "1670213226_curryc6.json",
-        "1670212961_curryc6.json",
-        "1670212878_curryc6.json",
-        "1670213060_curryc6.json",
-        "1670213084_curryc6.json",
-        "1670213009_curryc6.json",
-        "1670212906_curryc6.json",
-        "1670212848_curryc6.json"
-      ]
-    },
-    "case_00419": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670536379_curryc6.json",
-        "1670517750_curryc6.json",
-        "1670536783_curryc6.json"
-      ]
-    },
-    "case_00420": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670539725_curryc6.json",
-        "1670538194_curryc6.json",
-        "1670540176_curryc6.json"
-      ]
-    },
-    "case_00421": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670542624_curryc6.json",
-        "1670542096_curryc6.json",
-        "1670542712_curryc6.json"
-      ]
-    },
-    "case_00422": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672788312_curryc6.json",
-        "1672787953_curryc6.json",
-        "1672788412_curryc6.json"
-      ]
-    },
-    "case_00423": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672799431_curryc6.json",
-        "1672799138_curryc6.json",
-        "1672799503_curryc6.json"
-      ]
-    },
-    "case_00424": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672803757_curryc6.json",
-        "1672803412_curryc6.json",
-        "1672803872_curryc6.json",
-        "1672803808_curryc6.json"
-      ]
-    },
-    "case_00425": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669225882_abdalln.json",
-        "1669225653_abdalln.json",
-        "1669136487_abdalln.json"
-      ]
-    },
-    "case_00426": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669220376_abdalln.json",
-        "1669218482_abdalln.json",
-        "1669219315_abdalln.json",
-        "1669218631_abdalln.json"
-      ]
-    },
-    "case_00427": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669221798_abdalln.json",
-        "1669226191_abdalln.json",
-        "1672927816_wooda10.json",
-        "1669221309_abdalln.json"
-      ]
-    },
-    "case_00428": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669231057_abdalln.json",
-        "1669230549_abdalln.json",
-        "1672928053_wooda10.json",
-        "1669230045_abdalln.json",
-        "1669229919_abdalln.json",
-        "1669229853_abdalln.json"
-      ]
-    },
-    "case_00429": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669232423_abdalln.json",
-        "1669232121_abdalln.json",
-        "1669232587_abdalln.json",
-        "1669232471_abdalln.json"
-      ]
-    },
-    "case_00430": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669235259_abdalln.json",
-        "1669233637_abdalln.json",
-        "1669235057_abdalln.json"
-      ]
-    },
-    "case_00431": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669650263_abdalln.json",
-        "1677035870_helle246.json",
-        "1677035745_helle246.json"
-      ]
-    },
-    "case_00432": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669653795_abdalln.json",
-        "1669652000_abdalln.json",
-        "1669652091_abdalln.json",
-        "1669652736_abdalln.json",
-        "1669651146_abdalln.json"
-      ]
-    },
-    "case_00433": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669657742_abdalln.json",
-        "1669656982_abdalln.json",
-        "1669656370_abdalln.json",
-        "1669655823_abdalln.json",
-        "1669655564_abdalln.json"
-      ]
-    },
-    "case_00434": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669659627_abdalln.json",
-        "1669659975_abdalln.json",
-        "1669658946_abdalln.json",
-        "1669658852_abdalln.json",
-        "1669658763_abdalln.json",
-        "1669659321_abdalln.json",
-        "1669658823_abdalln.json",
-        "1669658702_abdalln.json"
-      ]
-    },
-    "case_00435": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669225184_abdalln.json",
-        "1669225488_abdalln.json",
-        "1669224805_abdalln.json"
-      ]
-    },
-    "case_00436": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669228575_abdalln.json",
-        "1669227591_abdalln.json",
-        "1669228511_abdalln.json",
-        "1669228389_abdalln.json"
-      ]
-    },
-    "case_00437": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670859609_abdalln.json",
-        "1670858901_abdalln.json",
-        "1670860000_abdalln.json"
-      ]
-    },
-    "case_00438": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670860865_abdalln.json",
-        "1670861219_abdalln.json",
-        "1670861738_abdalln.json",
-        "1670861458_abdalln.json"
-      ]
-    },
-    "case_00439": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670863209_abdalln.json",
-        "1670862787_abdalln.json",
-        "1670863479_abdalln.json"
-      ]
-    },
-    "case_00440": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670864554_abdalln.json",
-        "1670864302_abdalln.json",
-        "1670864833_abdalln.json",
-        "1670864601_abdalln.json"
-      ]
-    },
-    "case_00441": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670866146_abdalln.json",
-        "1670865807_abdalln.json",
-        "1670866270_abdalln.json"
-      ]
-    },
-    "case_00442": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669746134_axy186.json",
-        "1668182008_axy186.json",
-        "1671461667_axy186.json",
-        "1669836207_axy186.json",
-        "1669834200_axy186.json"
-      ]
-    },
-    "case_00443": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670957035_axy186.json",
-        "1668436994_axy186.json",
-        "1668438723_axy186.json"
-      ]
-    },
-    "case_00444": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670957215_axy186.json",
-        "1668523566_axy186.json",
-        "1668523742_axy186.json",
-        "1668523118_axy186.json",
-        "1668519892_axy186.json"
-      ]
-    },
-    "case_00445": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1668526548_axy186.json",
-        "1670957308_axy186.json",
-        "1668530171_axy186.json"
-      ]
-    },
-    "case_00446": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1668551621_axy186.json",
-        "1668550963_axy186.json",
-        "1673371574_wooda10.json",
-        "1668551027_axy186.json",
-        "1668551733_axy186.json",
-        "1668551784_axy186.json",
-        "1668551711_axy186.json"
-      ]
-    },
-    "case_00447": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677117373_helle246.json",
-        "1668611717_axy186.json",
-        "1668621333_axy186.json"
-      ]
-    },
-    "case_00448": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1668631027_axy186.json",
-        "1668628110_axy186.json",
-        "1668631955_axy186.json"
-      ]
-    },
-    "case_00449": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1668700126_axy186.json",
-        "1668699322_axy186.json",
-        "1668700383_axy186.json"
-      ]
-    },
-    "case_00450": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1668723171_axy186.json",
-        "1668722617_axy186.json",
-        "1668778885_axy186.json"
-      ]
-    },
-    "case_00451": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1668785966_axy186.json",
-        "1668784845_axy186.json",
-        "1668795707_axy186.json",
-        "1677119450_helle246.json"
-      ]
-    },
-    "case_00452": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1668808109_axy186.json",
-        "1668797669_axy186.json",
-        "1668808372_axy186.json"
-      ]
-    },
-    "case_00453": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669387333_axy186.json",
-        "1669262754_axy186.json",
-        "1670958319_axy186.json",
-        "1669389973_axy186.json"
-      ]
-    },
-    "case_00454": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669041952_axy186.json",
-        "1669043214_axy186.json",
-        "1669054619_axy186.json",
-        "1669058909_axy186.json",
-        "1669043313_axy186.json"
-      ]
-    },
-    "case_00455": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669658204_axy186.json",
-        "1669124477_axy186.json",
-        "1669661533_axy186.json",
-        "1669661291_axy186.json",
-        "1669661355_axy186.json",
-        "1669661222_axy186.json"
-      ]
-    },
-    "case_00456": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669132403_axy186.json",
-        "1669131259_axy186.json",
-        "1669134797_axy186.json",
-        "1669134717_axy186.json",
-        "1669134632_axy186.json"
-      ]
-    },
-    "case_00457": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669759968_axy186.json",
-        "1669749157_axy186.json",
-        "1669820149_axy186.json",
-        "1669768123_axy186.json"
-      ]
-    },
-    "case_00458": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670255100_axy186.json",
-        "1670250863_axy186.json",
-        "1673372192_wooda10.json"
-      ]
-    },
-    "case_00459": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669222109_axy186.json",
-        "1669221641_axy186.json",
-        "1669228506_axy186.json",
-        "1669222188_axy186.json",
-        "1669222158_axy186.json"
-      ]
-    },
-    "case_00460": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1673372317_wooda10.json",
-        "1673372291_wooda10.json",
-        "1673372420_wooda10.json"
-      ]
-    },
-    "case_00461": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669652009_axy186.json",
-        "1669824493_axy186.json",
-        "1669824266_axy186.json",
-        "1669824001_axy186.json",
-        "1669823519_axy186.json"
-      ]
-    },
-    "case_00462": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669997927_axy186.json",
-        "1669996783_axy186.json",
-        "1669999350_axy186.json"
-      ]
-    },
-    "case_00463": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670003635_axy186.json",
-        "1670002287_axy186.json",
-        "1670003849_axy186.json"
-      ]
-    },
-    "case_00464": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677360357_helle246.json",
-        "1677359908_helle246.json",
-        "1677362609_helle246.json"
-      ]
-    },
-    "case_00465": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677360646_helle246.json",
-        "1672166566_erguno.json",
-        "1677363604_helle246.json",
-        "1677365392_helle246.json",
-        "1672168334_erguno.json"
-      ]
-    },
-    "case_00466": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672169974_erguno.json",
-        "1672169684_erguno.json",
-        "1672170225_erguno.json"
-      ]
-    },
-    "case_00467": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677562270_curryc6.json",
-        "1677560452_curryc6.json",
-        "1677562575_curryc6.json",
-        "1677562645_curryc6.json"
-      ]
-    },
-    "case_00468": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677691226_curryc6.json",
-        "1677617420_curryc6.json",
-        "1677714155_curryc6.json",
-        "1677691993_curryc6.json",
-        "1677714698_curryc6.json",
-        "1677714660_curryc6.json",
-        "1677714678_curryc6.json",
-        "1677714471_curryc6.json",
-        "1677693041_curryc6.json",
-        "1677714592_curryc6.json",
-        "1677714818_curryc6.json",
-        "1677714638_curryc6.json",
-        "1677714496_curryc6.json",
-        "1677692723_curryc6.json",
-        "1677714433_curryc6.json",
-        "1677714347_curryc6.json",
-        "1677714795_curryc6.json",
-        "1677714742_curryc6.json"
-      ]
-    },
-    "case_00469": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677715829_curryc6.json",
-        "1677715960_curryc6.json",
-        "1677716127_curryc6.json",
-        "1677716001_curryc6.json"
-      ]
-    },
-    "case_00470": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677266794_wooda10.json",
-        "1677266266_wooda10.json",
-        "1677267200_wooda10.json",
-        "1678578161_helle246.json",
-        "1678577128_helle246.json",
-        "1678576390_helle246.json",
-        "1678578375_helle246.json",
-        "1678576449_helle246.json",
-        "1678576365_helle246.json"
-      ]
-    },
-    "case_00471": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677730165_helle246.json",
-        "1677729931_helle246.json",
-        "1677728889_helle246.json",
-        "1677728774_helle246.json"
-      ]
-    },
-    "case_00472": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677726476_curryc6.json",
-        "1677726296_curryc6.json",
-        "1677727044_curryc6.json",
-        "1677726588_curryc6.json"
-      ]
-    },
-    "case_00473": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672786404_erguno.json",
-        "1672786262_erguno.json",
-        "1672786606_erguno.json",
-        "1672786440_erguno.json"
-      ]
-    },
-    "case_00474": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672792982_erguno.json",
-        "1677366342_helle246.json",
-        "1672793610_erguno.json",
-        "1677367179_helle246.json"
-      ]
-    },
-    "case_00475": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677366733_helle246.json",
-        "1677366607_helle246.json",
-        "1672814044_erguno.json",
-        "1672814106_erguno.json"
-      ]
-    },
-    "case_00476": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1674083132_erguno.json",
-        "1677367333_helle246.json",
-        "1677367387_helle246.json"
-      ]
-    },
-    "case_00477": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677367647_helle246.json",
-        "1677367498_helle246.json",
-        "1675026586_erguno.json"
-      ]
-    },
-    "case_00478": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677368125_helle246.json",
-        "1677368325_helle246.json",
-        "1677369391_helle246.json"
-      ]
-    },
-    "case_00479": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677368563_helle246.json",
-        "1677368517_helle246.json",
-        "1675034039_erguno.json",
-        "1675033837_erguno.json",
-        "1675033788_erguno.json"
-      ]
-    },
-    "case_00480": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677372120_helle246.json",
-        "1677368854_helle246.json",
-        "1677371522_helle246.json",
-        "1677371662_helle246.json"
-      ]
-    },
-    "case_00481": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677369908_helle246.json",
-        "1677369657_helle246.json",
-        "1677369502_helle246.json"
-      ]
-    },
-    "case_00482": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677370373_helle246.json",
-        "1677370066_helle246.json",
-        "1677370590_helle246.json"
-      ]
-    },
-    "case_00483": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677444519_helle246.json",
-        "1677454189_helle246.json",
-        "1677440820_helle246.json",
-        "1677440763_helle246.json"
-      ]
-    },
-    "case_00484": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677557547_helle246.json",
-        "1677557787_helle246.json",
-        "1677555880_helle246.json",
-        "1677555846_helle246.json",
-        "1677555626_helle246.json"
-      ]
-    },
-    "case_00485": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677556354_helle246.json",
-        "1677556264_helle246.json",
-        "1677522463_abdalln.json",
-        "1677521888_abdalln.json",
-        "1677522221_abdalln.json"
-      ]
-    },
-    "case_00486": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677523508_abdalln.json",
-        "1677523172_abdalln.json",
-        "1677523725_abdalln.json",
-        "1677523555_abdalln.json"
-      ]
-    },
-    "case_00487": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677464175_helle246.json",
-        "1677463952_helle246.json",
-        "1677464372_helle246.json"
-      ]
-    },
-    "case_00488": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669661165_harrisk29.json",
-        "1669661145_harrisk29.json",
-        "1669660989_harrisk29.json"
-      ]
-    },
-    "case_00489": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669661236_harrisk29.json",
-        "1668121195_harrisk29.json",
-        "1668376892_harrisk29.json"
-      ]
-    },
-    "case_00490": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677453041_helle246.json",
-        "1677452945_helle246.json",
-        "1675699557_wooda10.json",
-        "1670957732_harrisk29.json"
-      ]
-    },
-    "case_00491": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1668543706_harrisk29.json",
-        "1668444779_harrisk29.json",
-        "1668544276_harrisk29.json",
-        "1668545053_harrisk29.json",
-        "1668544976_harrisk29.json",
-        "1668544482_harrisk29.json"
-      ]
-    },
-    "case_00492": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677453265_helle246.json",
-        "1677453211_helle246.json",
-        "1670958011_harrisk29.json",
-        "1677455059_helle246.json",
-        "1677454943_helle246.json",
-        "1677454896_helle246.json",
-        "1677454950_helle246.json",
-        "1677452474_helle246.json",
-        "1677454877_helle246.json",
-        "1670958011_harrisk29.json"
-      ]
-    },
-    "case_00493": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677453432_helle246.json",
-        "1669746758_harrisk29.json",
-        "1677455228_helle246.json"
-      ]
-    },
-    "case_00494": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1669254488_harrisk29.json",
-        "1669253697_harrisk29.json",
-        "1669668083_harrisk29.json",
-        "1669660558_harrisk29.json",
-        "1669660093_harrisk29.json",
-        "1669660470_harrisk29.json",
-        "1669659855_harrisk29.json"
-      ]
-    },
-    "case_00495": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671988204_harrisk29.json",
-        "1671988295_harrisk29.json",
-        "1671988098_harrisk29.json",
-        "1671483013_harrisk29.json"
-      ]
-    },
-    "case_00496": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671977974_harrisk29.json",
-        "1671976137_harrisk29.json",
-        "1671977944_harrisk29.json",
-        "1671978261_harrisk29.json",
-        "1671978219_harrisk29.json"
-      ]
-    },
-    "case_00497": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671987883_harrisk29.json",
-        "1671987091_harrisk29.json",
-        "1677453576_helle246.json"
-      ]
-    },
-    "case_00498": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671629295_ghadyzgheib.json",
-        "1677455679_helle246.json",
-        "1671629179_ghadyzgheib.json"
-      ]
-    },
-    "case_00499": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677457646_helle246.json",
-        "1677458184_helle246.json",
-        "1677457396_helle246.json",
-        "1677458114_helle246.json",
-        "1677459102_helle246.json",
-        "1677458698_helle246.json"
-      ]
-    },
-    "case_00500": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671635869_ghadyzgheib.json",
-        "1671635087_ghadyzgheib.json",
-        "1671635965_ghadyzgheib.json"
-      ]
-    },
-    "case_00501": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671637232_ghadyzgheib.json",
-        "1671636868_ghadyzgheib.json",
-        "1671637553_ghadyzgheib.json"
-      ]
-    },
-    "case_00502": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671639817_ghadyzgheib.json",
-        "1671639122_ghadyzgheib.json",
-        "1671639946_ghadyzgheib.json",
-        "1671639911_ghadyzgheib.json",
-        "1671639866_ghadyzgheib.json"
-      ]
-    },
-    "case_00503": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671645023_ghadyzgheib.json",
-        "1677464751_helle246.json",
-        "1671650123_ghadyzgheib.json",
-        "1671650080_ghadyzgheib.json",
-        "1671649932_ghadyzgheib.json",
-        "1671649864_ghadyzgheib.json",
-        "1671649979_ghadyzgheib.json",
-        "1671650013_ghadyzgheib.json",
-        "1671649959_ghadyzgheib.json",
-        "1671649908_ghadyzgheib.json",
-        "1671645092_ghadyzgheib.json"
-      ]
-    },
-    "case_00504": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672807411_curryc6.json",
-        "1672807338_curryc6.json",
-        "1672806969_curryc6.json",
-        "1672806820_curryc6.json",
-        "1672807218_curryc6.json",
-        "1672806875_curryc6.json",
-        "1672806720_curryc6.json",
-        "1677465536_helle246.json",
-        "1672805821_curryc6.json"
-      ]
-    },
-    "case_00505": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672810291_curryc6.json",
-        "1677464984_helle246.json",
-        "1678058906_helle246.json",
-        "1672810618_curryc6.json",
-        "1672810498_curryc6.json",
-        "1678058650_helle246.json",
-        "1678058661_helle246.json",
-        "1678058656_helle246.json",
-        "1672810429_curryc6.json"
-      ]
-    },
-    "case_00506": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676426331_curryc6.json",
-        "1676425653_curryc6.json",
-        "1676426784_curryc6.json",
-        "1676426690_curryc6.json"
-      ]
-    },
-    "case_00507": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676428573_curryc6.json",
-        "1676427978_curryc6.json",
-        "1676428864_curryc6.json",
-        "1676428641_curryc6.json"
-      ]
-    },
-    "case_00508": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676436262_curryc6.json",
-        "1676435793_curryc6.json",
-        "1676437147_curryc6.json",
-        "1676436949_curryc6.json",
-        "1676436726_curryc6.json",
-        "1676436680_curryc6.json",
-        "1676436546_curryc6.json",
-        "1676436417_curryc6.json",
-        "1676436607_curryc6.json",
-        "1676436645_curryc6.json",
-        "1676436584_curryc6.json",
-        "1676436509_curryc6.json",
-        "1676436369_curryc6.json"
-      ]
-    },
-    "case_00509": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676482676_curryc6.json",
-        "1676481798_curryc6.json",
-        "1676482912_curryc6.json",
-        "1676482767_curryc6.json",
-        "1676482725_curryc6.json"
-      ]
-    },
-    "case_00510": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676571389_curryc6.json",
-        "1676570734_curryc6.json",
-        "1676572476_curryc6.json",
-        "1676571493_curryc6.json",
-        "1676571716_curryc6.json",
-        "1676571456_curryc6.json"
-      ]
-    },
-    "case_00511": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676574286_curryc6.json",
-        "1676573299_curryc6.json",
-        "1676574404_curryc6.json",
-        "1676574337_curryc6.json"
-      ]
-    },
-    "case_00512": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676857044_curryc6.json",
-        "1676856175_curryc6.json",
-        "1676857273_curryc6.json",
-        "1676857135_curryc6.json"
-      ]
-    },
-    "case_00513": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676859164_curryc6.json",
-        "1676858605_curryc6.json",
-        "1676860201_curryc6.json",
-        "1676859739_curryc6.json",
-        "1676859831_curryc6.json",
-        "1676859585_curryc6.json"
-      ]
-    },
-    "case_00514": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676862095_curryc6.json",
-        "1676861408_curryc6.json",
-        "1676863524_curryc6.json",
-        "1676863264_curryc6.json",
-        "1676862994_curryc6.json",
-        "1676863323_curryc6.json",
-        "1676863115_curryc6.json",
-        "1676862870_curryc6.json"
-      ]
-    },
-    "case_00515": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1675795138_abdalln.json",
-        "1675794886_abdalln.json",
-        "1675796571_abdalln.json",
-        "1675798272_abdalln.json",
-        "1675797142_abdalln.json",
-        "1675798726_abdalln.json",
-        "1675797063_abdalln.json",
-        "1675798417_abdalln.json",
-        "1675797182_abdalln.json",
-        "1675796890_abdalln.json",
-        "1675796771_abdalln.json",
-        "1675797002_abdalln.json",
-        "1675798061_abdalln.json",
-        "1675797020_abdalln.json",
-        "1675798221_abdalln.json",
-        "1675798588_abdalln.json",
-        "1675796971_abdalln.json",
-        "1675798135_abdalln.json",
-        "1675796839_abdalln.json",
-        "1675796706_abdalln.json",
-        "1675797953_abdalln.json",
-        "1675798534_abdalln.json",
-        "1675797203_abdalln.json"
-      ]
-    },
-    "case_00516": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1675791064_abdalln.json",
-        "1675790733_abdalln.json",
-        "1675791634_abdalln.json",
-        "1675791440_abdalln.json",
-        "1675790566_abdalln.json"
-      ]
-    },
-    "case_00517": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1673463215_abdalln.json",
-        "1673462749_abdalln.json",
-        "1678061695_helle246.json"
-      ]
-    },
-    "case_00518": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671478961_abdalln.json",
-        "1671478266_abdalln.json",
-        "1671477042_abdalln.json"
-      ]
-    },
-    "case_00519": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671473891_abdalln.json",
-        "1671473508_abdalln.json",
-        "1671474636_abdalln.json",
-        "1671474014_abdalln.json",
-        "1671473942_abdalln.json",
-        "1671474449_abdalln.json",
-        "1671473977_abdalln.json",
-        "1671473921_abdalln.json"
-      ]
-    },
-    "case_00520": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1675793939_abdalln.json",
-        "1675793707_abdalln.json",
-        "1678062057_helle246.json",
-        "1677267746_wooda10.json"
-      ]
-    },
-    "case_00521": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1673465019_abdalln.json",
-        "1673464700_abdalln.json",
-        "1673465683_abdalln.json",
-        "1673465394_abdalln.json",
-        "1673465103_abdalln.json",
-        "1673465431_abdalln.json",
-        "1673465456_abdalln.json",
-        "1673465412_abdalln.json",
-        "1673465365_abdalln.json",
-        "1673465138_abdalln.json"
-      ]
-    },
-    "case_00522": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1675792358_abdalln.json",
-        "1675792085_abdalln.json",
-        "1675793276_abdalln.json",
-        "1675793248_abdalln.json",
-        "1675793193_abdalln.json",
-        "1675793079_abdalln.json",
-        "1675793014_abdalln.json",
-        "1675793145_abdalln.json",
-        "1675793177_abdalln.json",
-        "1675793096_abdalln.json",
-        "1675793045_abdalln.json",
-        "1675792987_abdalln.json"
-      ]
-    },
-    "case_00523": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1673459371_abdalln.json",
-        "1673458501_abdalln.json",
-        "1673459037_abdalln.json",
-        "1673458603_abdalln.json",
-        "1673458526_abdalln.json"
-      ]
-    },
-    "case_00524": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671471732_abdalln.json",
-        "1671471477_abdalln.json",
-        "1671471518_abdalln.json"
-      ]
-    },
-    "case_00525": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678063407_helle246.json",
-        "1671464718_abdalln.json",
-        "1671465213_abdalln.json"
-      ]
-    },
-    "case_00526": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678063797_helle246.json",
-        "1678063738_helle246.json",
-        "1678064166_helle246.json",
-        "1678063836_helle246.json",
-        "1671467800_abdalln.json",
-        "1671467833_abdalln.json",
-        "1678063820_helle246.json"
-      ]
-    },
-    "case_00527": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671462406_abdalln.json",
-        "1671462132_abdalln.json",
-        "1671461310_abdalln.json",
-        "1671460972_abdalln.json",
-        "1671460935_abdalln.json"
-      ]
-    },
-    "case_00528": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670870739_abdalln.json",
-        "1670870367_abdalln.json",
-        "1670871054_abdalln.json"
-      ]
-    },
-    "case_00529": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671459381_abdalln.json",
-        "1671458985_abdalln.json",
-        "1671459814_abdalln.json",
-        "1671459914_abdalln.json",
-        "1671459748_abdalln.json",
-        "1671459627_abdalln.json",
-        "1671459512_abdalln.json",
-        "1671459548_abdalln.json",
-        "1671459432_abdalln.json"
-      ]
-    },
-    "case_00530": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670875886_abdalln.json",
-        "1670873509_abdalln.json",
-        "1673371189_wooda10.json",
-        "1670874670_abdalln.json",
-        "1670874946_abdalln.json",
-        "1670874722_abdalln.json",
-        "1670874466_abdalln.json",
-        "1670874413_abdalln.json",
-        "1670874534_abdalln.json",
-        "1670874565_abdalln.json",
-        "1670874502_abdalln.json",
-        "1670874442_abdalln.json",
-        "1670874361_abdalln.json"
-      ]
-    },
-    "case_00531": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678422378_helle246.json",
-        "1670867544_abdalln.json",
-        "1670869179_abdalln.json",
-        "1670868142_abdalln.json",
-        "1670868049_abdalln.json"
-      ]
-    },
-    "case_00532": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672177418_axy186.json",
-        "1672163970_axy186.json",
-        "1675696245_wooda10.json",
-        "1672177795_axy186.json",
-        "1672177716_axy186.json"
-      ]
-    },
-    "case_00533": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670277702_axy186.json",
-        "1670010922_axy186.json",
-        "1670338866_axy186.json"
-      ]
-    },
-    "case_00534": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670364661_axy186.json",
-        "1670364311_axy186.json",
-        "1670365057_axy186.json"
-      ]
-    },
-    "case_00535": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670423444_axy186.json",
-        "1670422598_axy186.json",
-        "1670429069_axy186.json"
-      ]
-    },
-    "case_00536": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670451533_axy186.json",
-        "1670450645_axy186.json",
-        "1670509278_axy186.json"
-      ]
-    },
-    "case_00537": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670513504_axy186.json",
-        "1670511398_axy186.json",
-        "1670515330_axy186.json"
-      ]
-    },
-    "case_00538": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1670612329_axy186.json",
-        "1670536365_axy186.json",
-        "1671049903_axy186.json",
-        "1671049789_axy186.json",
-        "1670612513_axy186.json",
-        "1670604389_axy186.json",
-        "1670613242_axy186.json",
-        "1670612641_axy186.json",
-        "1670604511_axy186.json",
-        "1670538987_axy186.json"
-      ]
-    },
-    "case_00539": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671140348_axy186.json",
-        "1671118085_axy186.json",
-        "1671140564_axy186.json"
-      ]
-    },
-    "case_00540": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671563638_axy186.json",
-        "1671554835_axy186.json",
-        "1671563886_axy186.json",
-        "1671552160_axy186.json",
-        "1671476422_axy186.json",
-        "1671465523_axy186.json",
-        "1671476585_axy186.json",
-        "1671464935_axy186.json",
-        "1671476646_axy186.json",
-        "1671465402_axy186.json",
-        "1671551280_axy186.json",
-        "1671463638_axy186.json",
-        "1671551588_axy186.json",
-        "1671551732_axy186.json",
-        "1671463048_axy186.json",
-        "1671464144_axy186.json",
-        "1671476150_axy186.json",
-        "1671552032_axy186.json",
-        "1671464627_axy186.json",
-        "1671476313_axy186.json",
-        "1671476965_axy186.json",
-        "1671552398_axy186.json",
-        "1671463931_axy186.json",
-        "1671476237_axy186.json",
-        "1671551913_axy186.json",
-        "1671463238_axy186.json",
-        "1671227575_axy186.json",
-        "1671476074_axy186.json",
-        "1671476737_axy186.json",
-        "1671475944_axy186.json"
-      ]
-    },
-    "case_00541": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671636353_axy186.json",
-        "1671635880_axy186.json",
-        "1671636632_axy186.json"
-      ]
-    },
-    "case_00542": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671722472_axy186.json",
-        "1671650096_axy186.json",
-        "1671745148_axy186.json",
-        "1671722578_axy186.json",
-        "1671722686_axy186.json",
-        "1671722502_axy186.json"
-      ]
-    },
-    "case_00543": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1673886492_axy186.json",
-        "1673885234_axy186.json",
-        "1673896912_axy186.json",
-        "1674747392_axy186.json",
-        "1674750278_axy186.json",
-        "1674747868_axy186.json",
-        "1674157238_axy186.json",
-        "1674058543_axy186.json",
-        "1674700944_axy186.json",
-        "1674749612_axy186.json",
-        "1674701111_axy186.json",
-        "1674700800_axy186.json",
-        "1674079346_axy186.json",
-        "1674057714_axy186.json",
-        "1674748347_axy186.json",
-        "1674749057_axy186.json"
-      ]
-    },
-    "case_00544": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1671828852_axy186.json",
-        "1671828018_axy186.json",
-        "1672156876_axy186.json",
-        "1672156727_axy186.json",
-        "1672152385_axy186.json",
-        "1672156134_axy186.json",
-        "1671828980_axy186.json"
-      ]
-    },
-    "case_00545": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672249935_axy186.json",
-        "1672243135_axy186.json",
-        "1672264428_axy186.json"
-      ]
-    },
-    "case_00546": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672328350_axy186.json",
-        "1672327386_axy186.json",
-        "1672328945_axy186.json"
-      ]
-    },
-    "case_00547": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672350992_axy186.json",
-        "1672349919_axy186.json",
-        "1675697124_wooda10.json",
-        "1672415592_axy186.json"
-      ]
-    },
-    "case_00548": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672425811_axy186.json",
-        "1672425183_axy186.json",
-        "1672426021_axy186.json",
-        "1672425911_axy186.json"
-      ]
-    },
-    "case_00549": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672427430_axy186.json",
-        "1672427084_axy186.json",
-        "1672427681_axy186.json",
-        "1672427619_axy186.json",
-        "1672427575_axy186.json"
-      ]
-    },
-    "case_00550": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672761594_axy186.json",
-        "1672761026_axy186.json",
-        "1672761699_axy186.json",
-        "1672761624_axy186.json"
-      ]
-    },
-    "case_00551": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1674847112_axy186.json",
-        "1678560117_helle246.json",
-        "1678559887_helle246.json",
-        "1674856424_axy186.json",
-        "1674847765_axy186.json"
-      ]
-    },
-    "case_00552": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672847205_axy186.json",
-        "1672774738_axy186.json",
-        "1672851144_axy186.json"
-      ]
-    },
-    "case_00553": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678561140_helle246.json",
-        "1678561438_helle246.json",
-        "1673042546_axy186.json",
-        "1672955389_axy186.json"
-      ]
-    },
-    "case_00554": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672870650_axy186.json",
-        "1672870086_axy186.json",
-        "1672870925_axy186.json",
-        "1672870838_axy186.json",
-        "1672870788_axy186.json"
-      ]
-    },
-    "case_00555": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677514716_axy186.json",
-        "1677513251_axy186.json",
-        "1677421465_wooda10.json",
-        "1677445447_wooda10.json",
-        "1677445514_wooda10.json",
-        "1677445249_wooda10.json"
-      ]
-    },
-    "case_00556": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677603099_axy186.json",
-        "1677600840_axy186.json",
-        "1677423077_wooda10.json"
-      ]
-    },
-    "case_00557": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677524072_axy186.json",
-        "1677522727_axy186.json",
-        "1677423417_wooda10.json"
-      ]
-    },
-    "case_00558": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677599856_axy186.json",
-        "1677527020_axy186.json",
-        "1678561642_helle246.json",
-        "1677445648_wooda10.json",
-        "1677445562_wooda10.json"
-      ]
-    },
-    "case_00559": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677610606_axy186.json",
-        "1677609828_axy186.json",
-        "1677424497_wooda10.json"
-      ]
-    },
-    "case_00560": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677612741_axy186.json",
-        "1677611654_axy186.json",
-        "1678562067_helle246.json"
-      ]
-    },
-    "case_00561": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678564544_helle246.json",
-        "1677620934_axy186.json",
-        "1678562451_helle246.json",
-        "1675727339_erguno.json",
-        "1677425981_wooda10.json"
-      ]
-    },
-    "case_00562": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677637279_axy186.json",
-        "1677636788_axy186.json",
-        "1677426265_wooda10.json",
-        "1677445748_wooda10.json"
-      ]
-    },
-    "case_00563": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677684423_axy186.json",
-        "1677426468_wooda10.json",
-        "1677446427_wooda10.json",
-        "1677446372_wooda10.json",
-        "1677447214_wooda10.json",
-        "1677447260_wooda10.json",
-        "1677446207_wooda10.json"
-      ]
-    },
-    "case_00564": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677687116_axy186.json",
-        "1677685676_axy186.json",
-        "1677426679_wooda10.json",
-        "1677447424_wooda10.json",
-        "1677426813_wooda10.json"
-      ]
-    },
-    "case_00565": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677696710_axy186.json",
-        "1677696276_axy186.json",
-        "1677427365_wooda10.json",
-        "1677447507_wooda10.json",
-        "1677426942_wooda10.json"
-      ]
-    },
-    "case_00566": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678565442_helle246.json",
-        "1678565337_helle246.json",
-        "1678564922_helle246.json",
-        "1678564972_helle246.json"
-      ]
-    },
-    "case_00567": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678567365_helle246.json",
-        "1678567107_helle246.json",
-        "1678567694_helle246.json",
-        "1678565681_helle246.json",
-        "1678565668_helle246.json"
-      ]
-    },
-    "case_00568": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678567973_helle246.json",
-        "1677511916_abdalln.json",
-        "1677428695_wooda10.json",
-        "1677448283_wooda10.json",
-        "1677447922_wooda10.json",
-        "1677448090_wooda10.json",
-        "1677447845_wooda10.json"
-      ]
-    },
-    "case_00569": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677512786_abdalln.json",
-        "1677512599_abdalln.json",
-        "1677465193_helle246.json"
-      ]
-    },
-    "case_00570": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677513186_abdalln.json",
-        "1677513286_abdalln.json",
-        "1677429020_wooda10.json"
-      ]
-    },
-    "case_00571": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677513604_abdalln.json",
-        "1678569686_helle246.json",
-        "1677448542_wooda10.json",
-        "1677448492_wooda10.json"
-      ]
-    },
-    "case_00572": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677725943_helle246.json",
-        "1677430038_wooda10.json",
-        "1677513793_abdalln.json"
-      ]
-    },
-    "case_00573": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677514294_abdalln.json",
-        "1677514039_abdalln.json",
-        "1677430339_wooda10.json"
-      ]
-    },
-    "case_00574": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677514614_abdalln.json",
-        "1677514687_abdalln.json",
-        "1677430420_wooda10.json"
-      ]
-    },
-    "case_00575": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678571049_helle246.json",
-        "1678571025_helle246.json",
-        "1677430746_wooda10.json",
-        "1677449543_wooda10.json",
-        "1677449432_wooda10.json"
-      ]
-    },
-    "case_00576": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678572745_helle246.json",
-        "1677516652_abdalln.json",
-        "1678572384_helle246.json"
-      ]
-    },
-    "case_00577": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677517429_abdalln.json",
-        "1677517422_abdalln.json",
-        "1676265875_erguno.json"
-      ]
-    },
-    "case_00578": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672248931_harrisk29.json",
-        "1672087822_harrisk29.json",
-        "1672249450_harrisk29.json",
-        "1672249769_harrisk29.json"
-      ]
-    },
-    "case_00579": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672528339_harrisk29.json",
-        "1672526754_harrisk29.json",
-        "1672528574_harrisk29.json"
-      ]
-    },
-    "case_00580": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1672531384_harrisk29.json",
-        "1672932302_harrisk29.json",
-        "1673371073_wooda10.json"
-      ]
-    },
-    "case_00581": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1673976934_harrisk29.json",
-        "1673976121_harrisk29.json",
-        "1673977052_harrisk29.json"
-      ]
-    },
-    "case_00582": {
-      "decision": "n",
-      "notes": "Need to address hypodense tumor",
-      "delineation_files": [
-        "1678574429_helle246.json",
-        "1678574512_helle246.json",
-        "1678573668_helle246.json"
-      ]
-    },
-    "case_00583": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1678574842_helle246.json",
-        "1678574812_helle246.json",
-        "1674583532_harrisk29.json"
-      ]
-    },
-    "case_00584": {
-      "decision": "n",
-      "notes": "Hypodense tumor",
-      "delineation_files": [
-        "1675719586_wooda10.json",
-        "1675718652_wooda10.json",
-        "1678575420_helle246.json",
-        "1678575206_helle246.json",
-        "1675719920_wooda10.json"
-      ]
-    },
-    "case_00585": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1675723633_wooda10.json",
-        "1675722492_wooda10.json",
-        "1675723770_wooda10.json"
-      ]
-    },
-    "case_00586": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676496876_wooda10.json",
-        "1676495123_wooda10.json",
-        "1678576200_helle246.json",
-        "1678575984_helle246.json",
-        "1678576261_helle246.json",
-        "1676812508_wooda10.json",
-        "1678575677_helle246.json",
-        "1676812754_wooda10.json",
-        "1678575789_helle246.json",
-        "1676812645_wooda10.json",
-        "1678575775_helle246.json",
-        "1678575642_helle246.json"
-      ]
-    },
-    "case_00587": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676814009_wooda10.json",
-        "1676813653_wooda10.json",
-        "1676817900_wooda10.json",
-        "1676818030_wooda10.json"
-      ]
-    },
-    "case_00588": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1676815496_wooda10.json",
-        "1676814824_wooda10.json",
-        "1676818664_wooda10.json"
-      ]
-    },
-    "case_00589": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677177366_wooda10.json",
-        "1677176421_wooda10.json",
-        "1677186439_wooda10.json"
-      ]
-    },
-    "case_00590": {
-      "decision": "n",
-      "notes": "Hilum problems",
-      "delineation_files": [
-        "1677179437_wooda10.json",
-        "1677178429_wooda10.json",
-        "1677190425_wooda10.json",
-        "1677190665_wooda10.json",
-        "1677190588_wooda10.json"
-      ]
-    },
-    "case_00591": {
-      "decision": "n",
-      "notes": "Tumor shape",
-      "delineation_files": [
-        "1677181780_wooda10.json",
-        "1677180700_wooda10.json",
-        "1677187665_wooda10.json"
-      ]
-    },
-    "case_00592": {
-      "decision": "y",
-      "notes": null,
-      "delineation_files": [
-        "1677183473_wooda10.json",
-        "1677182617_wooda10.json",
-        "1677187896_wooda10.json"
-      ]
-    },
-    "case_00593": {
-      "decision": "n",
-      "notes": "gap",
-      "delineation_files": [
-        "1677185309_wooda10.json",
-        "1677184328_wooda10.json",
-        "1677188870_wooda10.json",
-        "1677189199_wooda10.json",
-        "1677189054_wooda10.json"
-      ]
-    }
+  "case_00400": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661100842_helle246.json",
+      "1661012876_helle246.json",
+      "1661100930_helle246.json",
+      "1661101246_helle246.json",
+      "1661101095_helle246.json",
+      "1661101287_helle246.json",
+      "1661101186_helle246.json",
+      "1661101022_helle246.json"
+    ]
+  },
+  "case_00401": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661128438_helle246.json",
+      "1661128211_helle246.json",
+      "1661128507_helle246.json"
+    ]
+  },
+  "case_00402": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661131781_helle246.json",
+      "1661131672_helle246.json",
+      "1661131945_helle246.json",
+      "1661131907_helle246.json"
+    ]
+  },
+  "case_00403": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661198152_helle246.json",
+      "1661197840_helle246.json",
+      "1661198613_helle246.json",
+      "1661198481_helle246.json",
+      "1661198517_helle246.json",
+      "1661198407_helle246.json"
+    ]
+  },
+  "case_00404": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661200026_helle246.json",
+      "1661199484_helle246.json",
+      "1661200697_helle246.json",
+      "1661200801_helle246.json",
+      "1661200604_helle246.json",
+      "1661200548_helle246.json",
+      "1661200212_helle246.json",
+      "1661200119_helle246.json",
+      "1661200420_helle246.json",
+      "1661200494_helle246.json",
+      "1661200246_helle246.json",
+      "1661200169_helle246.json",
+      "1661200065_helle246.json"
+    ]
+  },
+  "case_00405": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661220277_helle246.json",
+      "1661219894_helle246.json",
+      "1661220533_helle246.json"
+    ]
+  },
+  "case_00406": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661391728_helle246.json",
+      "1661391382_helle246.json",
+      "1661391982_helle246.json"
+    ]
+  },
+  "case_00407": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661392817_helle246.json",
+      "1661392524_helle246.json",
+      "1661392904_helle246.json"
+    ]
+  },
+  "case_00408": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1662601812_helle246.json",
+      "1662601585_helle246.json",
+      "1677034611_helle246.json",
+      "1662601900_helle246.json",
+      "1661826544_helle246.json"
+    ]
+  },
+  "case_00409": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1661867720_wooda10.json",
+      "1677034944_helle246.json",
+      "1662601161_helle246.json",
+      "1661867832_wooda10.json"
+    ]
+  },
+  "case_00410": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1664153208_helle246.json",
+      "1664153030_helle246.json",
+      "1672925117_wooda10.json"
+    ]
+  },
+  "case_00411": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1664848485_axy186.json",
+      "1664849260_axy186.json",
+      "1672925211_wooda10.json"
+    ]
+  },
+  "case_00412": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1665945459_curryc6.json",
+      "1665944176_curryc6.json",
+      "1665946056_curryc6.json",
+      "1665945976_curryc6.json",
+      "1665945576_curryc6.json",
+      "1665945522_curryc6.json"
+    ]
+  },
+  "case_00413": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669921964_curryc6.json",
+      "1669921421_curryc6.json",
+      "1669922624_curryc6.json",
+      "1669922564_curryc6.json",
+      "1669922314_curryc6.json",
+      "1669922095_curryc6.json",
+      "1669922417_curryc6.json",
+      "1669922139_curryc6.json",
+      "1669922064_curryc6.json"
+    ]
+  },
+  "case_00414": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669923744_curryc6.json",
+      "1669923412_curryc6.json",
+      "1669924088_curryc6.json",
+      "1669923952_curryc6.json",
+      "1669923831_curryc6.json"
+    ]
+  },
+  "case_00415": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677035100_helle246.json",
+      "1670186401_curryc6.json",
+      "1670186799_curryc6.json"
+    ]
+  },
+  "case_00416": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670190526_curryc6.json",
+      "1670188770_curryc6.json",
+      "1672927067_wooda10.json",
+      "1672927148_wooda10.json",
+      "1670191021_curryc6.json",
+      "1670191288_curryc6.json",
+      "1670191158_curryc6.json",
+      "1670191387_curryc6.json",
+      "1670191312_curryc6.json",
+      "1670191231_curryc6.json",
+      "1670191098_curryc6.json"
+    ]
+  },
+  "case_00417": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670194629_curryc6.json",
+      "1670193501_curryc6.json",
+      "1670208015_curryc6.json",
+      "1670207285_curryc6.json",
+      "1670206981_curryc6.json",
+      "1670207182_curryc6.json",
+      "1670206793_curryc6.json"
+    ]
+  },
+  "case_00418": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670212774_curryc6.json",
+      "1670212145_curryc6.json",
+      "1672927716_wooda10.json",
+      "1670213186_curryc6.json",
+      "1670213134_curryc6.json",
+      "1670213226_curryc6.json",
+      "1670212961_curryc6.json",
+      "1670212878_curryc6.json",
+      "1670213060_curryc6.json",
+      "1670213084_curryc6.json",
+      "1670213009_curryc6.json",
+      "1670212906_curryc6.json",
+      "1670212848_curryc6.json"
+    ]
+  },
+  "case_00419": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670536379_curryc6.json",
+      "1670517750_curryc6.json",
+      "1670536783_curryc6.json"
+    ]
+  },
+  "case_00420": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670539725_curryc6.json",
+      "1670538194_curryc6.json",
+      "1670540176_curryc6.json"
+    ]
+  },
+  "case_00421": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670542624_curryc6.json",
+      "1670542096_curryc6.json",
+      "1670542712_curryc6.json"
+    ]
+  },
+  "case_00422": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672788312_curryc6.json",
+      "1672787953_curryc6.json",
+      "1672788412_curryc6.json"
+    ]
+  },
+  "case_00423": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672799431_curryc6.json",
+      "1672799138_curryc6.json",
+      "1672799503_curryc6.json"
+    ]
+  },
+  "case_00424": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672803757_curryc6.json",
+      "1672803412_curryc6.json",
+      "1672803872_curryc6.json",
+      "1672803808_curryc6.json"
+    ]
+  },
+  "case_00425": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669225882_abdalln.json",
+      "1669225653_abdalln.json",
+      "1669136487_abdalln.json"
+    ]
+  },
+  "case_00426": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669220376_abdalln.json",
+      "1669218482_abdalln.json",
+      "1669219315_abdalln.json",
+      "1669218631_abdalln.json"
+    ]
+  },
+  "case_00427": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669221798_abdalln.json",
+      "1669226191_abdalln.json",
+      "1672927816_wooda10.json",
+      "1669221309_abdalln.json"
+    ]
+  },
+  "case_00428": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669231057_abdalln.json",
+      "1669230549_abdalln.json",
+      "1672928053_wooda10.json",
+      "1669230045_abdalln.json",
+      "1669229919_abdalln.json",
+      "1669229853_abdalln.json"
+    ]
+  },
+  "case_00429": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669232423_abdalln.json",
+      "1669232121_abdalln.json",
+      "1669232587_abdalln.json",
+      "1669232471_abdalln.json"
+    ]
+  },
+  "case_00430": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669235259_abdalln.json",
+      "1669233637_abdalln.json",
+      "1669235057_abdalln.json"
+    ]
+  },
+  "case_00431": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669650263_abdalln.json",
+      "1677035870_helle246.json",
+      "1677035745_helle246.json"
+    ]
+  },
+  "case_00432": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669653795_abdalln.json",
+      "1669652000_abdalln.json",
+      "1669652091_abdalln.json",
+      "1669652736_abdalln.json",
+      "1669651146_abdalln.json"
+    ]
+  },
+  "case_00433": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669657742_abdalln.json",
+      "1669656982_abdalln.json",
+      "1669656370_abdalln.json",
+      "1669655823_abdalln.json",
+      "1669655564_abdalln.json"
+    ]
+  },
+  "case_00434": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669659627_abdalln.json",
+      "1669659975_abdalln.json",
+      "1669658946_abdalln.json",
+      "1669658852_abdalln.json",
+      "1669658763_abdalln.json",
+      "1669659321_abdalln.json",
+      "1669658823_abdalln.json",
+      "1669658702_abdalln.json"
+    ]
+  },
+  "case_00435": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669225184_abdalln.json",
+      "1669225488_abdalln.json",
+      "1669224805_abdalln.json"
+    ]
+  },
+  "case_00436": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669228575_abdalln.json",
+      "1669227591_abdalln.json",
+      "1669228511_abdalln.json",
+      "1669228389_abdalln.json"
+    ]
+  },
+  "case_00437": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670859609_abdalln.json",
+      "1670858901_abdalln.json",
+      "1670860000_abdalln.json"
+    ]
+  },
+  "case_00438": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670860865_abdalln.json",
+      "1670861219_abdalln.json",
+      "1670861738_abdalln.json",
+      "1670861458_abdalln.json"
+    ]
+  },
+  "case_00439": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670863209_abdalln.json",
+      "1670862787_abdalln.json",
+      "1670863479_abdalln.json"
+    ]
+  },
+  "case_00440": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670864554_abdalln.json",
+      "1670864302_abdalln.json",
+      "1670864833_abdalln.json",
+      "1670864601_abdalln.json"
+    ]
+  },
+  "case_00441": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670866146_abdalln.json",
+      "1670865807_abdalln.json",
+      "1670866270_abdalln.json"
+    ]
+  },
+  "case_00442": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669746134_axy186.json",
+      "1668182008_axy186.json",
+      "1671461667_axy186.json",
+      "1669836207_axy186.json",
+      "1669834200_axy186.json"
+    ]
+  },
+  "case_00443": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670957035_axy186.json",
+      "1668436994_axy186.json",
+      "1668438723_axy186.json"
+    ]
+  },
+  "case_00444": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670957215_axy186.json",
+      "1668523566_axy186.json",
+      "1668523742_axy186.json",
+      "1668523118_axy186.json",
+      "1668519892_axy186.json"
+    ]
+  },
+  "case_00445": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668526548_axy186.json",
+      "1670957308_axy186.json",
+      "1668530171_axy186.json"
+    ]
+  },
+  "case_00446": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668551621_axy186.json",
+      "1668550963_axy186.json",
+      "1673371574_wooda10.json",
+      "1668551027_axy186.json",
+      "1668551733_axy186.json",
+      "1668551784_axy186.json",
+      "1668551711_axy186.json"
+    ]
+  },
+  "case_00447": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677117373_helle246.json",
+      "1668611717_axy186.json",
+      "1668621333_axy186.json"
+    ]
+  },
+  "case_00448": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668631027_axy186.json",
+      "1668628110_axy186.json",
+      "1668631955_axy186.json"
+    ]
+  },
+  "case_00449": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668700126_axy186.json",
+      "1668699322_axy186.json",
+      "1668700383_axy186.json"
+    ]
+  },
+  "case_00450": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668723171_axy186.json",
+      "1668722617_axy186.json",
+      "1668778885_axy186.json"
+    ]
+  },
+  "case_00451": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668785966_axy186.json",
+      "1668784845_axy186.json",
+      "1668795707_axy186.json",
+      "1677119450_helle246.json"
+    ]
+  },
+  "case_00452": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668808109_axy186.json",
+      "1668797669_axy186.json",
+      "1668808372_axy186.json"
+    ]
+  },
+  "case_00453": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669387333_axy186.json",
+      "1669262754_axy186.json",
+      "1670958319_axy186.json",
+      "1669389973_axy186.json"
+    ]
+  },
+  "case_00454": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669041952_axy186.json",
+      "1669043214_axy186.json",
+      "1669054619_axy186.json",
+      "1669058909_axy186.json",
+      "1669043313_axy186.json"
+    ]
+  },
+  "case_00455": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669658204_axy186.json",
+      "1669124477_axy186.json",
+      "1669661533_axy186.json",
+      "1669661291_axy186.json",
+      "1669661355_axy186.json",
+      "1669661222_axy186.json"
+    ]
+  },
+  "case_00456": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669132403_axy186.json",
+      "1669131259_axy186.json",
+      "1669134797_axy186.json",
+      "1669134717_axy186.json",
+      "1669134632_axy186.json"
+    ]
+  },
+  "case_00457": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669759968_axy186.json",
+      "1669749157_axy186.json",
+      "1669820149_axy186.json",
+      "1669768123_axy186.json"
+    ]
+  },
+  "case_00458": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670255100_axy186.json",
+      "1670250863_axy186.json",
+      "1673372192_wooda10.json"
+    ]
+  },
+  "case_00459": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669222109_axy186.json",
+      "1669221641_axy186.json",
+      "1669228506_axy186.json",
+      "1669222188_axy186.json",
+      "1669222158_axy186.json"
+    ]
+  },
+  "case_00460": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1673372317_wooda10.json",
+      "1673372291_wooda10.json",
+      "1673372420_wooda10.json"
+    ]
+  },
+  "case_00461": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669652009_axy186.json",
+      "1669824493_axy186.json",
+      "1669824266_axy186.json",
+      "1669824001_axy186.json",
+      "1669823519_axy186.json"
+    ]
+  },
+  "case_00462": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669997927_axy186.json",
+      "1669996783_axy186.json",
+      "1669999350_axy186.json"
+    ]
+  },
+  "case_00463": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670003635_axy186.json",
+      "1670002287_axy186.json",
+      "1670003849_axy186.json"
+    ]
+  },
+  "case_00464": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677360357_helle246.json",
+      "1677359908_helle246.json",
+      "1677362609_helle246.json"
+    ]
+  },
+  "case_00465": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677360646_helle246.json",
+      "1672166566_erguno.json",
+      "1677363604_helle246.json",
+      "1677365392_helle246.json",
+      "1672168334_erguno.json"
+    ]
+  },
+  "case_00466": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672169974_erguno.json",
+      "1672169684_erguno.json",
+      "1672170225_erguno.json"
+    ]
+  },
+  "case_00467": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677562270_curryc6.json",
+      "1677560452_curryc6.json",
+      "1677562575_curryc6.json",
+      "1677562645_curryc6.json"
+    ]
+  },
+  "case_00468": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677691226_curryc6.json",
+      "1677617420_curryc6.json",
+      "1677714155_curryc6.json",
+      "1677691993_curryc6.json",
+      "1677714698_curryc6.json",
+      "1677714660_curryc6.json",
+      "1677714678_curryc6.json",
+      "1677714471_curryc6.json",
+      "1677693041_curryc6.json",
+      "1677714592_curryc6.json",
+      "1677714818_curryc6.json",
+      "1677714638_curryc6.json",
+      "1677714496_curryc6.json",
+      "1677692723_curryc6.json",
+      "1677714433_curryc6.json",
+      "1677714347_curryc6.json",
+      "1677714795_curryc6.json",
+      "1677714742_curryc6.json"
+    ]
+  },
+  "case_00469": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677715829_curryc6.json",
+      "1677715960_curryc6.json",
+      "1677716127_curryc6.json",
+      "1677716001_curryc6.json"
+    ]
+  },
+  "case_00470": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677266794_wooda10.json",
+      "1677266266_wooda10.json",
+      "1677267200_wooda10.json",
+      "1678578161_helle246.json",
+      "1678577128_helle246.json",
+      "1678576390_helle246.json",
+      "1678578375_helle246.json",
+      "1678576449_helle246.json",
+      "1678576365_helle246.json"
+    ]
+  },
+  "case_00471": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677730165_helle246.json",
+      "1677729931_helle246.json",
+      "1677728889_helle246.json",
+      "1677728774_helle246.json"
+    ]
+  },
+  "case_00472": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677726476_curryc6.json",
+      "1677726296_curryc6.json",
+      "1677727044_curryc6.json",
+      "1677726588_curryc6.json"
+    ]
+  },
+  "case_00473": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672786404_erguno.json",
+      "1672786262_erguno.json",
+      "1672786606_erguno.json",
+      "1672786440_erguno.json"
+    ]
+  },
+  "case_00474": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672792982_erguno.json",
+      "1677366342_helle246.json",
+      "1672793610_erguno.json",
+      "1677367179_helle246.json"
+    ]
+  },
+  "case_00475": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677366733_helle246.json",
+      "1677366607_helle246.json",
+      "1672814044_erguno.json",
+      "1672814106_erguno.json"
+    ]
+  },
+  "case_00476": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1674083132_erguno.json",
+      "1677367333_helle246.json",
+      "1677367387_helle246.json"
+    ]
+  },
+  "case_00477": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677367647_helle246.json",
+      "1677367498_helle246.json",
+      "1675026586_erguno.json"
+    ]
+  },
+  "case_00478": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677368125_helle246.json",
+      "1677368325_helle246.json",
+      "1677369391_helle246.json"
+    ]
+  },
+  "case_00479": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677368563_helle246.json",
+      "1677368517_helle246.json",
+      "1675034039_erguno.json",
+      "1675033837_erguno.json",
+      "1675033788_erguno.json"
+    ]
+  },
+  "case_00480": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677372120_helle246.json",
+      "1677368854_helle246.json",
+      "1677371522_helle246.json",
+      "1677371662_helle246.json"
+    ]
+  },
+  "case_00481": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677369908_helle246.json",
+      "1677369657_helle246.json",
+      "1677369502_helle246.json"
+    ]
+  },
+  "case_00482": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677370373_helle246.json",
+      "1677370066_helle246.json",
+      "1677370590_helle246.json"
+    ]
+  },
+  "case_00483": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677444519_helle246.json",
+      "1677454189_helle246.json",
+      "1677440820_helle246.json",
+      "1677440763_helle246.json"
+    ]
+  },
+  "case_00484": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677557547_helle246.json",
+      "1677557787_helle246.json",
+      "1677555880_helle246.json",
+      "1677555846_helle246.json",
+      "1677555626_helle246.json"
+    ]
+  },
+  "case_00485": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677556354_helle246.json",
+      "1677556264_helle246.json",
+      "1677522463_abdalln.json",
+      "1677521888_abdalln.json",
+      "1677522221_abdalln.json"
+    ]
+  },
+  "case_00486": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677523508_abdalln.json",
+      "1677523172_abdalln.json",
+      "1677523725_abdalln.json",
+      "1677523555_abdalln.json"
+    ]
+  },
+  "case_00487": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677464175_helle246.json",
+      "1677463952_helle246.json",
+      "1677464372_helle246.json"
+    ]
+  },
+  "case_00488": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669661165_harrisk29.json",
+      "1669661145_harrisk29.json",
+      "1669660989_harrisk29.json"
+    ]
+  },
+  "case_00489": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669661236_harrisk29.json",
+      "1668121195_harrisk29.json",
+      "1668376892_harrisk29.json"
+    ]
+  },
+  "case_00490": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677453041_helle246.json",
+      "1677452945_helle246.json",
+      "1675699557_wooda10.json",
+      "1670957732_harrisk29.json"
+    ]
+  },
+  "case_00491": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1668543706_harrisk29.json",
+      "1668444779_harrisk29.json",
+      "1668544276_harrisk29.json",
+      "1668545053_harrisk29.json",
+      "1668544976_harrisk29.json",
+      "1668544482_harrisk29.json"
+    ]
+  },
+  "case_00492": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677453265_helle246.json",
+      "1677453211_helle246.json",
+      "1670958011_harrisk29.json",
+      "1677455059_helle246.json",
+      "1677454943_helle246.json",
+      "1677454896_helle246.json",
+      "1677454950_helle246.json",
+      "1677452474_helle246.json",
+      "1677454877_helle246.json",
+      "1670958011_harrisk29.json"
+    ]
+  },
+  "case_00493": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677453432_helle246.json",
+      "1669746758_harrisk29.json",
+      "1677455228_helle246.json"
+    ]
+  },
+  "case_00494": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1669254488_harrisk29.json",
+      "1669253697_harrisk29.json",
+      "1669668083_harrisk29.json",
+      "1669660558_harrisk29.json",
+      "1669660093_harrisk29.json",
+      "1669660470_harrisk29.json",
+      "1669659855_harrisk29.json"
+    ]
+  },
+  "case_00495": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671988204_harrisk29.json",
+      "1671988295_harrisk29.json",
+      "1671988098_harrisk29.json",
+      "1671483013_harrisk29.json"
+    ]
+  },
+  "case_00496": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671977974_harrisk29.json",
+      "1671976137_harrisk29.json",
+      "1671977944_harrisk29.json",
+      "1671978261_harrisk29.json",
+      "1671978219_harrisk29.json"
+    ]
+  },
+  "case_00497": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671987883_harrisk29.json",
+      "1671987091_harrisk29.json",
+      "1677453576_helle246.json"
+    ]
+  },
+  "case_00498": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671629295_ghadyzgheib.json",
+      "1677455679_helle246.json",
+      "1671629179_ghadyzgheib.json"
+    ]
+  },
+  "case_00499": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677457646_helle246.json",
+      "1677458184_helle246.json",
+      "1677457396_helle246.json",
+      "1677458114_helle246.json",
+      "1677459102_helle246.json",
+      "1677458698_helle246.json"
+    ]
+  },
+  "case_00500": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671635869_ghadyzgheib.json",
+      "1671635087_ghadyzgheib.json",
+      "1671635965_ghadyzgheib.json"
+    ]
+  },
+  "case_00501": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671637232_ghadyzgheib.json",
+      "1671636868_ghadyzgheib.json",
+      "1671637553_ghadyzgheib.json"
+    ]
+  },
+  "case_00502": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671639817_ghadyzgheib.json",
+      "1671639122_ghadyzgheib.json",
+      "1671639946_ghadyzgheib.json",
+      "1671639911_ghadyzgheib.json",
+      "1671639866_ghadyzgheib.json"
+    ]
+  },
+  "case_00503": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671645023_ghadyzgheib.json",
+      "1677464751_helle246.json",
+      "1671650123_ghadyzgheib.json",
+      "1671650080_ghadyzgheib.json",
+      "1671649932_ghadyzgheib.json",
+      "1671649864_ghadyzgheib.json",
+      "1671649979_ghadyzgheib.json",
+      "1671650013_ghadyzgheib.json",
+      "1671649959_ghadyzgheib.json",
+      "1671649908_ghadyzgheib.json",
+      "1671645092_ghadyzgheib.json"
+    ]
+  },
+  "case_00504": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672807411_curryc6.json",
+      "1672807338_curryc6.json",
+      "1672806969_curryc6.json",
+      "1672806820_curryc6.json",
+      "1672807218_curryc6.json",
+      "1672806875_curryc6.json",
+      "1672806720_curryc6.json",
+      "1677465536_helle246.json",
+      "1672805821_curryc6.json"
+    ]
+  },
+  "case_00505": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672810291_curryc6.json",
+      "1677464984_helle246.json",
+      "1678058906_helle246.json",
+      "1672810618_curryc6.json",
+      "1672810498_curryc6.json",
+      "1678058650_helle246.json",
+      "1678058661_helle246.json",
+      "1678058656_helle246.json",
+      "1672810429_curryc6.json"
+    ]
+  },
+  "case_00506": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676426331_curryc6.json",
+      "1676425653_curryc6.json",
+      "1676426784_curryc6.json",
+      "1676426690_curryc6.json"
+    ]
+  },
+  "case_00507": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676428573_curryc6.json",
+      "1676427978_curryc6.json",
+      "1676428864_curryc6.json",
+      "1676428641_curryc6.json"
+    ]
+  },
+  "case_00508": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676436262_curryc6.json",
+      "1676435793_curryc6.json",
+      "1676437147_curryc6.json",
+      "1676436949_curryc6.json",
+      "1676436726_curryc6.json",
+      "1676436680_curryc6.json",
+      "1676436546_curryc6.json",
+      "1676436417_curryc6.json",
+      "1676436607_curryc6.json",
+      "1676436645_curryc6.json",
+      "1676436584_curryc6.json",
+      "1676436509_curryc6.json",
+      "1676436369_curryc6.json"
+    ]
+  },
+  "case_00509": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676482676_curryc6.json",
+      "1676481798_curryc6.json",
+      "1676482912_curryc6.json",
+      "1676482767_curryc6.json",
+      "1676482725_curryc6.json"
+    ]
+  },
+  "case_00510": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676571389_curryc6.json",
+      "1676570734_curryc6.json",
+      "1676572476_curryc6.json",
+      "1676571493_curryc6.json",
+      "1676571716_curryc6.json",
+      "1676571456_curryc6.json"
+    ]
+  },
+  "case_00511": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676574286_curryc6.json",
+      "1676573299_curryc6.json",
+      "1676574404_curryc6.json",
+      "1676574337_curryc6.json"
+    ]
+  },
+  "case_00512": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676857044_curryc6.json",
+      "1676856175_curryc6.json",
+      "1676857273_curryc6.json",
+      "1676857135_curryc6.json"
+    ]
+  },
+  "case_00513": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676859164_curryc6.json",
+      "1676858605_curryc6.json",
+      "1676860201_curryc6.json",
+      "1676859739_curryc6.json",
+      "1676859831_curryc6.json",
+      "1676859585_curryc6.json"
+    ]
+  },
+  "case_00514": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676862095_curryc6.json",
+      "1676861408_curryc6.json",
+      "1676863524_curryc6.json",
+      "1676863264_curryc6.json",
+      "1676862994_curryc6.json",
+      "1676863323_curryc6.json",
+      "1676863115_curryc6.json",
+      "1676862870_curryc6.json"
+    ]
+  },
+  "case_00515": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1675795138_abdalln.json",
+      "1675794886_abdalln.json",
+      "1675796571_abdalln.json",
+      "1675798272_abdalln.json",
+      "1675797142_abdalln.json",
+      "1675798726_abdalln.json",
+      "1675797063_abdalln.json",
+      "1675798417_abdalln.json",
+      "1675797182_abdalln.json",
+      "1675796890_abdalln.json",
+      "1675796771_abdalln.json",
+      "1675797002_abdalln.json",
+      "1675798061_abdalln.json",
+      "1675797020_abdalln.json",
+      "1675798221_abdalln.json",
+      "1675798588_abdalln.json",
+      "1675796971_abdalln.json",
+      "1675798135_abdalln.json",
+      "1675796839_abdalln.json",
+      "1675796706_abdalln.json",
+      "1675797953_abdalln.json",
+      "1675798534_abdalln.json",
+      "1675797203_abdalln.json"
+    ]
+  },
+  "case_00516": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1675791064_abdalln.json",
+      "1675790733_abdalln.json",
+      "1675791634_abdalln.json",
+      "1675791440_abdalln.json",
+      "1675790566_abdalln.json"
+    ]
+  },
+  "case_00517": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1673463215_abdalln.json",
+      "1673462749_abdalln.json",
+      "1678061695_helle246.json"
+    ]
+  },
+  "case_00518": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671478961_abdalln.json",
+      "1671478266_abdalln.json",
+      "1671477042_abdalln.json"
+    ]
+  },
+  "case_00519": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671473891_abdalln.json",
+      "1671473508_abdalln.json",
+      "1671474636_abdalln.json",
+      "1671474014_abdalln.json",
+      "1671473942_abdalln.json",
+      "1671474449_abdalln.json",
+      "1671473977_abdalln.json",
+      "1671473921_abdalln.json"
+    ]
+  },
+  "case_00520": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1675793939_abdalln.json",
+      "1675793707_abdalln.json",
+      "1678062057_helle246.json",
+      "1677267746_wooda10.json"
+    ]
+  },
+  "case_00521": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1673465019_abdalln.json",
+      "1673464700_abdalln.json",
+      "1673465683_abdalln.json",
+      "1673465394_abdalln.json",
+      "1673465103_abdalln.json",
+      "1673465431_abdalln.json",
+      "1673465456_abdalln.json",
+      "1673465412_abdalln.json",
+      "1673465365_abdalln.json",
+      "1673465138_abdalln.json"
+    ]
+  },
+  "case_00522": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1675792358_abdalln.json",
+      "1675792085_abdalln.json",
+      "1675793276_abdalln.json",
+      "1675793248_abdalln.json",
+      "1675793193_abdalln.json",
+      "1675793079_abdalln.json",
+      "1675793014_abdalln.json",
+      "1675793145_abdalln.json",
+      "1675793177_abdalln.json",
+      "1675793096_abdalln.json",
+      "1675793045_abdalln.json",
+      "1675792987_abdalln.json"
+    ]
+  },
+  "case_00523": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1673459371_abdalln.json",
+      "1673458501_abdalln.json",
+      "1673459037_abdalln.json",
+      "1673458603_abdalln.json",
+      "1673458526_abdalln.json"
+    ]
+  },
+  "case_00524": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671471732_abdalln.json",
+      "1671471477_abdalln.json",
+      "1671471518_abdalln.json"
+    ]
+  },
+  "case_00525": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678063407_helle246.json",
+      "1671464718_abdalln.json",
+      "1671465213_abdalln.json"
+    ]
+  },
+  "case_00526": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678063797_helle246.json",
+      "1678063738_helle246.json",
+      "1678064166_helle246.json",
+      "1678063836_helle246.json",
+      "1671467800_abdalln.json",
+      "1671467833_abdalln.json",
+      "1678063820_helle246.json"
+    ]
+  },
+  "case_00527": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671462406_abdalln.json",
+      "1671462132_abdalln.json",
+      "1671461310_abdalln.json",
+      "1671460972_abdalln.json",
+      "1671460935_abdalln.json"
+    ]
+  },
+  "case_00528": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670870739_abdalln.json",
+      "1670870367_abdalln.json",
+      "1670871054_abdalln.json"
+    ]
+  },
+  "case_00529": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671459381_abdalln.json",
+      "1671458985_abdalln.json",
+      "1671459814_abdalln.json",
+      "1671459914_abdalln.json",
+      "1671459748_abdalln.json",
+      "1671459627_abdalln.json",
+      "1671459512_abdalln.json",
+      "1671459548_abdalln.json",
+      "1671459432_abdalln.json"
+    ]
+  },
+  "case_00530": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670875886_abdalln.json",
+      "1670873509_abdalln.json",
+      "1673371189_wooda10.json",
+      "1670874670_abdalln.json",
+      "1670874946_abdalln.json",
+      "1670874722_abdalln.json",
+      "1670874466_abdalln.json",
+      "1670874413_abdalln.json",
+      "1670874534_abdalln.json",
+      "1670874565_abdalln.json",
+      "1670874502_abdalln.json",
+      "1670874442_abdalln.json",
+      "1670874361_abdalln.json"
+    ]
+  },
+  "case_00531": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678422378_helle246.json",
+      "1670867544_abdalln.json",
+      "1670869179_abdalln.json",
+      "1670868142_abdalln.json",
+      "1670868049_abdalln.json"
+    ]
+  },
+  "case_00532": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672177418_axy186.json",
+      "1672163970_axy186.json",
+      "1675696245_wooda10.json",
+      "1672177795_axy186.json",
+      "1672177716_axy186.json"
+    ]
+  },
+  "case_00533": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670277702_axy186.json",
+      "1670010922_axy186.json",
+      "1670338866_axy186.json"
+    ]
+  },
+  "case_00534": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670364661_axy186.json",
+      "1670364311_axy186.json",
+      "1670365057_axy186.json"
+    ]
+  },
+  "case_00535": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670423444_axy186.json",
+      "1670422598_axy186.json",
+      "1670429069_axy186.json"
+    ]
+  },
+  "case_00536": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670451533_axy186.json",
+      "1670450645_axy186.json",
+      "1670509278_axy186.json"
+    ]
+  },
+  "case_00537": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670513504_axy186.json",
+      "1670511398_axy186.json",
+      "1670515330_axy186.json"
+    ]
+  },
+  "case_00538": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1670612329_axy186.json",
+      "1670536365_axy186.json",
+      "1671049903_axy186.json",
+      "1671049789_axy186.json",
+      "1670612513_axy186.json",
+      "1670604389_axy186.json",
+      "1670613242_axy186.json",
+      "1670612641_axy186.json",
+      "1670604511_axy186.json",
+      "1670538987_axy186.json"
+    ]
+  },
+  "case_00539": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671140348_axy186.json",
+      "1671118085_axy186.json",
+      "1671140564_axy186.json"
+    ]
+  },
+  "case_00540": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671563638_axy186.json",
+      "1671554835_axy186.json",
+      "1671563886_axy186.json",
+      "1671552160_axy186.json",
+      "1671476422_axy186.json",
+      "1671465523_axy186.json",
+      "1671476585_axy186.json",
+      "1671464935_axy186.json",
+      "1671476646_axy186.json",
+      "1671465402_axy186.json",
+      "1671551280_axy186.json",
+      "1671463638_axy186.json",
+      "1671551588_axy186.json",
+      "1671551732_axy186.json",
+      "1671463048_axy186.json",
+      "1671464144_axy186.json",
+      "1671476150_axy186.json",
+      "1671552032_axy186.json",
+      "1671464627_axy186.json",
+      "1671476313_axy186.json",
+      "1671476965_axy186.json",
+      "1671552398_axy186.json",
+      "1671463931_axy186.json",
+      "1671476237_axy186.json",
+      "1671551913_axy186.json",
+      "1671463238_axy186.json",
+      "1671227575_axy186.json",
+      "1671476074_axy186.json",
+      "1671476737_axy186.json",
+      "1671475944_axy186.json"
+    ]
+  },
+  "case_00541": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671636353_axy186.json",
+      "1671635880_axy186.json",
+      "1671636632_axy186.json"
+    ]
+  },
+  "case_00542": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671722472_axy186.json",
+      "1671650096_axy186.json",
+      "1671745148_axy186.json",
+      "1671722578_axy186.json",
+      "1671722686_axy186.json",
+      "1671722502_axy186.json"
+    ]
+  },
+  "case_00543": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1673886492_axy186.json",
+      "1673885234_axy186.json",
+      "1673896912_axy186.json",
+      "1674747392_axy186.json",
+      "1674750278_axy186.json",
+      "1674747868_axy186.json",
+      "1674157238_axy186.json",
+      "1674058543_axy186.json",
+      "1674700944_axy186.json",
+      "1674749612_axy186.json",
+      "1674701111_axy186.json",
+      "1674700800_axy186.json",
+      "1674079346_axy186.json",
+      "1674057714_axy186.json",
+      "1674748347_axy186.json",
+      "1674749057_axy186.json"
+    ]
+  },
+  "case_00544": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1671828852_axy186.json",
+      "1671828018_axy186.json",
+      "1672156876_axy186.json",
+      "1672156727_axy186.json",
+      "1672152385_axy186.json",
+      "1672156134_axy186.json",
+      "1671828980_axy186.json"
+    ]
+  },
+  "case_00545": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672249935_axy186.json",
+      "1672243135_axy186.json",
+      "1672264428_axy186.json"
+    ]
+  },
+  "case_00546": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672328350_axy186.json",
+      "1672327386_axy186.json",
+      "1672328945_axy186.json"
+    ]
+  },
+  "case_00547": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672350992_axy186.json",
+      "1672349919_axy186.json",
+      "1675697124_wooda10.json",
+      "1672415592_axy186.json"
+    ]
+  },
+  "case_00548": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672425811_axy186.json",
+      "1672425183_axy186.json",
+      "1672426021_axy186.json",
+      "1672425911_axy186.json"
+    ]
+  },
+  "case_00549": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672427430_axy186.json",
+      "1672427084_axy186.json",
+      "1672427681_axy186.json",
+      "1672427619_axy186.json",
+      "1672427575_axy186.json"
+    ]
+  },
+  "case_00550": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672761594_axy186.json",
+      "1672761026_axy186.json",
+      "1672761699_axy186.json",
+      "1672761624_axy186.json"
+    ]
+  },
+  "case_00551": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1674847112_axy186.json",
+      "1678560117_helle246.json",
+      "1678559887_helle246.json",
+      "1674856424_axy186.json",
+      "1674847765_axy186.json"
+    ]
+  },
+  "case_00552": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672847205_axy186.json",
+      "1672774738_axy186.json",
+      "1672851144_axy186.json"
+    ]
+  },
+  "case_00553": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678561140_helle246.json",
+      "1678561438_helle246.json",
+      "1673042546_axy186.json",
+      "1672955389_axy186.json"
+    ]
+  },
+  "case_00554": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672870650_axy186.json",
+      "1672870086_axy186.json",
+      "1672870925_axy186.json",
+      "1672870838_axy186.json",
+      "1672870788_axy186.json"
+    ]
+  },
+  "case_00555": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677514716_axy186.json",
+      "1677513251_axy186.json",
+      "1677421465_wooda10.json",
+      "1677445447_wooda10.json",
+      "1677445514_wooda10.json",
+      "1677445249_wooda10.json"
+    ]
+  },
+  "case_00556": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677603099_axy186.json",
+      "1677600840_axy186.json",
+      "1677423077_wooda10.json"
+    ]
+  },
+  "case_00557": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677524072_axy186.json",
+      "1677522727_axy186.json",
+      "1677423417_wooda10.json"
+    ]
+  },
+  "case_00558": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677599856_axy186.json",
+      "1677527020_axy186.json",
+      "1678561642_helle246.json",
+      "1677445648_wooda10.json",
+      "1677445562_wooda10.json"
+    ]
+  },
+  "case_00559": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677610606_axy186.json",
+      "1677609828_axy186.json",
+      "1677424497_wooda10.json"
+    ]
+  },
+  "case_00560": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677612741_axy186.json",
+      "1677611654_axy186.json",
+      "1678562067_helle246.json"
+    ]
+  },
+  "case_00561": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678564544_helle246.json",
+      "1677620934_axy186.json",
+      "1678562451_helle246.json",
+      "1675727339_erguno.json",
+      "1677425981_wooda10.json"
+    ]
+  },
+  "case_00562": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677637279_axy186.json",
+      "1677636788_axy186.json",
+      "1677426265_wooda10.json",
+      "1677445748_wooda10.json"
+    ]
+  },
+  "case_00563": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677684423_axy186.json",
+      "1677426468_wooda10.json",
+      "1677446427_wooda10.json",
+      "1677446372_wooda10.json",
+      "1677447214_wooda10.json",
+      "1677447260_wooda10.json",
+      "1677446207_wooda10.json"
+    ]
+  },
+  "case_00564": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677687116_axy186.json",
+      "1677685676_axy186.json",
+      "1677426679_wooda10.json",
+      "1677447424_wooda10.json",
+      "1677426813_wooda10.json"
+    ]
+  },
+  "case_00565": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677696710_axy186.json",
+      "1677696276_axy186.json",
+      "1677427365_wooda10.json",
+      "1677447507_wooda10.json",
+      "1677426942_wooda10.json"
+    ]
+  },
+  "case_00566": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678565442_helle246.json",
+      "1678565337_helle246.json",
+      "1678564922_helle246.json",
+      "1678564972_helle246.json"
+    ]
+  },
+  "case_00567": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678567365_helle246.json",
+      "1678567107_helle246.json",
+      "1678567694_helle246.json",
+      "1678565681_helle246.json",
+      "1678565668_helle246.json"
+    ]
+  },
+  "case_00568": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678567973_helle246.json",
+      "1677511916_abdalln.json",
+      "1677428695_wooda10.json",
+      "1677448283_wooda10.json",
+      "1677447922_wooda10.json",
+      "1677448090_wooda10.json",
+      "1677447845_wooda10.json"
+    ]
+  },
+  "case_00569": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677512786_abdalln.json",
+      "1677512599_abdalln.json",
+      "1677465193_helle246.json"
+    ]
+  },
+  "case_00570": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677513186_abdalln.json",
+      "1677513286_abdalln.json",
+      "1677429020_wooda10.json"
+    ]
+  },
+  "case_00571": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677513604_abdalln.json",
+      "1678569686_helle246.json",
+      "1677448542_wooda10.json",
+      "1677448492_wooda10.json"
+    ]
+  },
+  "case_00572": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677725943_helle246.json",
+      "1677430038_wooda10.json",
+      "1677513793_abdalln.json"
+    ]
+  },
+  "case_00573": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677514294_abdalln.json",
+      "1677514039_abdalln.json",
+      "1677430339_wooda10.json"
+    ]
+  },
+  "case_00574": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677514614_abdalln.json",
+      "1677514687_abdalln.json",
+      "1677430420_wooda10.json"
+    ]
+  },
+  "case_00575": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678571049_helle246.json",
+      "1678571025_helle246.json",
+      "1677430746_wooda10.json",
+      "1677449543_wooda10.json",
+      "1677449432_wooda10.json"
+    ]
+  },
+  "case_00576": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678572745_helle246.json",
+      "1677516652_abdalln.json",
+      "1678572384_helle246.json"
+    ]
+  },
+  "case_00577": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677517429_abdalln.json",
+      "1677517422_abdalln.json",
+      "1676265875_erguno.json"
+    ]
+  },
+  "case_00578": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672248931_harrisk29.json",
+      "1672087822_harrisk29.json",
+      "1672249450_harrisk29.json",
+      "1672249769_harrisk29.json"
+    ]
+  },
+  "case_00579": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672528339_harrisk29.json",
+      "1672526754_harrisk29.json",
+      "1672528574_harrisk29.json"
+    ]
+  },
+  "case_00580": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1672531384_harrisk29.json",
+      "1672932302_harrisk29.json",
+      "1673371073_wooda10.json"
+    ]
+  },
+  "case_00581": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1673976934_harrisk29.json",
+      "1673976121_harrisk29.json",
+      "1673977052_harrisk29.json"
+    ]
+  },
+  "case_00582": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678574429_helle246.json",
+      "1678574512_helle246.json",
+      "1678573668_helle246.json"
+    ]
+  },
+  "case_00583": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1678574842_helle246.json",
+      "1678574812_helle246.json",
+      "1674583532_harrisk29.json"
+    ]
+  },
+  "case_00584": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1675719586_wooda10.json",
+      "1675718652_wooda10.json",
+      "1678575420_helle246.json",
+      "1678575206_helle246.json",
+      "1675719920_wooda10.json"
+    ]
+  },
+  "case_00585": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1675723633_wooda10.json",
+      "1675722492_wooda10.json",
+      "1675723770_wooda10.json"
+    ]
+  },
+  "case_00586": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676496876_wooda10.json",
+      "1676495123_wooda10.json",
+      "1678576200_helle246.json",
+      "1678575984_helle246.json",
+      "1678576261_helle246.json",
+      "1676812508_wooda10.json",
+      "1678575677_helle246.json",
+      "1676812754_wooda10.json",
+      "1678575789_helle246.json",
+      "1676812645_wooda10.json",
+      "1678575775_helle246.json",
+      "1678575642_helle246.json"
+    ]
+  },
+  "case_00587": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676814009_wooda10.json",
+      "1676813653_wooda10.json",
+      "1676817900_wooda10.json",
+      "1676818030_wooda10.json"
+    ]
+  },
+  "case_00588": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1676815496_wooda10.json",
+      "1676814824_wooda10.json",
+      "1676818664_wooda10.json"
+    ]
+  },
+  "case_00589": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677177366_wooda10.json",
+      "1677176421_wooda10.json",
+      "1677186439_wooda10.json"
+    ]
+  },
+  "case_00590": {
+    "decision": "n",
+    "notes": "Hilum problems",
+    "delineation_files": [
+      "1677179437_wooda10.json",
+      "1677178429_wooda10.json",
+      "1677190425_wooda10.json",
+      "1677190665_wooda10.json",
+      "1677190588_wooda10.json"
+    ]
+  },
+  "case_00591": {
+    "decision": "n",
+    "notes": "Tumor shape",
+    "delineation_files": [
+      "1677181780_wooda10.json",
+      "1677180700_wooda10.json",
+      "1677187665_wooda10.json"
+    ]
+  },
+  "case_00592": {
+    "decision": "y",
+    "notes": null,
+    "delineation_files": [
+      "1677183473_wooda10.json",
+      "1677182617_wooda10.json",
+      "1677187896_wooda10.json"
+    ]
+  },
+  "case_00593": {
+    "decision": "n",
+    "notes": "gap",
+    "delineation_files": [
+      "1677185309_wooda10.json",
+      "1677184328_wooda10.json",
+      "1677188870_wooda10.json",
+      "1677189199_wooda10.json",
+      "1677189054_wooda10.json"
+    ]
   }
+}

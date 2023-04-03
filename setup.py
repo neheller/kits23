@@ -2,8 +2,8 @@ from setuptools import setup
 
 
 setup(
-    name='kits21',
-    version='0.0.1',
+    name='kits23',
+    version='0.1.0',
     description='',
     zip_safe=False,
     install_requires=[
