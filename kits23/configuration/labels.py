@@ -7,6 +7,8 @@ KITS_HEC_LABEL_MAPPING = {
     'tumor': (2, ),
 }
 
+KITS_LABEL_TO_HEC_MAPPING = {j: i for i, j in KITS_HEC_LABEL_MAPPING.items()}
+
 HEC_NAME_LIST = list(KITS_HEC_LABEL_MAPPING.keys())
 
 # just for you as a reference. This tells you which metric is at what index.
@@ -32,7 +34,7 @@ HEC_SD_TOLERANCES_MM = {
 }
 
 # this determines which reference file we use for evaluation
-GT_SEGM_FNAME = 'aggregated_MAJ_seg.nii.gz'
+GT_SEGM_FNAME = 'segmentation.nii.gz'
 
 # how many groups of sampled segmentations?
 NUMBER_OF_GROUPS = 5
