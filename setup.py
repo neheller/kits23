@@ -14,7 +14,8 @@ setup(
         'nibabel',
         'requests',
         'argparse',
-        'tqdm'
+        'tqdm',
+        "pytest"
     ],
     entry_points={
         'console_scripts': [
