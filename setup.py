@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='kits23',
-    version='0.1.0',
+    version='0.1.1',
     description='',
     zip_safe=False,
     install_requires=[

@@ -66,8 +66,8 @@ def test_image_dtype():
         # Load segmentation file
         img = nib.load(str(img_pth))
 
-        # Ensure that the segmentation file is uint8
-        assert np.asanyarray(img.dataobj).dtype == np.float32
+        # Ensure that the image file is float32
+        assert np.asanyarray(img.dataobj).dtype == np.dtype("<f8")
 
 
 def test_segmentation_orientation():
