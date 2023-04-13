@@ -18,7 +18,8 @@ setup(
         'tqdm',
         "pytest",
         'Surface-Distance-Based-Measures @ git+https://github.com/deepmind/surface-distance.git',
-        'SimpleITK'
+        'SimpleITK',
+        "batchgenerators"
     ],
     entry_points={
         'console_scripts': [
