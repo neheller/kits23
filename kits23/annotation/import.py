@@ -171,7 +171,7 @@ def save_segmentation(
     destination = destination_parent / filename
 
     # Save file
-    nib.save(n1img, str(destination))
+    nib.save(n1img.astype(np.uint8), str(destination))
 
 
 def run_import(delineation_path):
@@ -318,7 +318,7 @@ def aggregate_case(case_id, cache):
         )
     if agg is not None:
         nib.save(
-            nib.Nifti1Image(agg.astype(np.int32), affine),
+            nib.Nifti1Image(agg.astype(np.uint8), affine),
             str(base_dir / case_id / "segmentation.nii.gz")
         )
 

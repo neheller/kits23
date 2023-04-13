@@ -22,14 +22,14 @@ def get_destination(case_id: str, create: bool = False):
 def cleanup(tmp_pth: Path, e: Exception):
     if tmp_pth.exists():
         tmp_pth.unlink()
-    
+
     if e is None:
         print("\nInterrupted.\n")
         sys.exit()
     raise(e)
 
 
-def download_case(case_num: int, pbar: tqdm):
+def download_case(case_num: int, pbar: tqdm, retry=True):
     remote_name = f"master_{case_num:05d}.nii.gz"
     url = f"https://kits19.sfo2.digitaloceanspaces.com/{remote_name}"
     destination = get_destination(f"case_{case_num:05d}", True)
@@ -46,6 +46,10 @@ def download_case(case_num: int, pbar: tqdm):
             except KeyboardInterrupt:
                 pass
     except Exception as e:
+        if retry:
+            print(f"\nFailed to download case_{case_num:05d}. Retrying...")
+            sleep(5)
+            download_case(case_num, pbar, retry=False)
         pbar.close()
         while True:
             try:
