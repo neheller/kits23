@@ -22,7 +22,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'kits23_download_data = kits23.entrypoints:download_data_entrypoint',  # todo!
+            'kits23_download_data = kits23.entrypoints:download_data_entrypoint',
             'kits23_compute_metrics = kits23.evaluation.entry_point:main'
         ]
     },
