@@ -9,7 +9,7 @@ from kits23.evaluation.dice import dice
 from surface_distance import compute_surface_distances, compute_surface_dice_at_tolerance
 
 from kits23.configuration.labels import KITS_HEC_LABEL_MAPPING, HEC_NAME_LIST, HEC_SD_TOLERANCES_MM, GT_SEGM_FNAME, KITS_LABEL_TO_HEC_MAPPING
-from kits23.configuration.paths import TRAINING_DIR
+from kits23.configuration.paths import TESTING_DIR
 from time import time
 
 from kits23.evaluation.generate_bool_masks_for_hec import construct_HEC_from_segmentation
@@ -107,7 +107,7 @@ def evaluate_predictions(folder_with_predictions: str, num_processes: int = 8, w
     for c in caseids:
         params.append(
             [join(folder_with_predictions, c + '.nii.gz'),
-             join(TRAINING_DIR, c, GT_SEGM_FNAME)]
+             join(TESTING_DIR, c, GT_SEGM_FNAME)]
         )
     metrics = p.starmap(compute_metrics_for_case, params)
     metrics = np.vstack([i[None] for i in metrics])

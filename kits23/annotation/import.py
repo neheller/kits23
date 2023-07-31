@@ -100,8 +100,10 @@ def update_raw(delineation_path, case_id, in_test_set):
     if not destination_parent.exists():
         destination_parent.mkdir()
     destination_parent = destination_parent / "raw"
-    shutil.rmtree(str(destination_parent))
     if not destination_parent.exists():
+        destination_parent.mkdir()
+    else:
+        shutil.rmtree(str(destination_parent))
         destination_parent.mkdir()
 
     custom_hilums = None
@@ -171,7 +173,8 @@ def save_segmentation(
     destination = destination_parent / filename
 
     # Save file
-    nib.save(n1img.astype(np.uint8), str(destination))
+    n1img = nib.Nifti1Image(n1img.get_fdata().astype(np.uint8), n1img.affine)
+    nib.save(n1img, str(destination))
 
 
 def run_import(delineation_path):

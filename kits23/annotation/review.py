@@ -125,6 +125,7 @@ def main():
 
     # Summarize review results
     training_remaining = 0
+    testing_remaining = 0
     for key in results:
         if results[key]["decision"] == "n":
             case_num = int(key[-5:])
@@ -132,10 +133,13 @@ def main():
                 continue
             if case_num in TRAINING_CASE_NUMBERS:
                 training_remaining += 1
+            else:
+                testing_remaining += 1
             note = results[key]["notes"]
             print(f"{key}: {note}")
 
-    print(f"\n{training_remaining} CASES REMAINING\n")
+    print(f"\n{training_remaining} TRAINING CASES REMAINING")
+    print(f"{testing_remaining} TESTING CASES REMAINING\n")
 
 
 if __name__ == "__main__":
