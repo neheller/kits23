@@ -1,5 +1,8 @@
+import sys
+import shutil
 import os.path
 from typing import Callable, List
+from pathlib import Path
 import numpy as np
 import scipy.stats as ss
 from batchgenerators.utilities.file_and_folder_operations import isfile, join
@@ -85,7 +88,45 @@ def rank_participants(summary_csv: str, output_csv_file: str) -> None:
                                                      metrics[i, 2]))
 
 
+def find_folder_with_eval(sub_folder_pth):
+    # Iterate through directories to find folder with submission files
+    if len(list(sub_folder_pth.glob("*evaluation.csv*"))) == 1:
+        return sub_folder_pth
+    
+    for child in sub_folder_pth.glob("*"):
+        if not child.is_dir():
+            pass
+        
+        candidate = find_folder_with_eval(child)
+        if candidate is not None:
+            return candidate
+
+    return None
+
+
 if __name__ == '__main__':
-    summary_file = 'summary.csv'  # follow the example csv provided in this folder!
-    output_file = 'kits2023_ranking.csv'
+    # Create temp folder to store all evaluation.csv
+    tmp_pth = Path(__file__).parent / ".submissions"
+    tmp_pth.mkdir(exist_ok=True)
+
+    all_folders = []
+    all_submission_pth = Path(sys.argv[1])
+    for submission_parent in all_submission_pth.glob("*"):
+        if not submission_parent.is_dir():
+            continue
+        
+        submission_pth = find_folder_with_eval(submission_parent)
+        tmp_sub_pth = tmp_pth / submission_parent.name
+        tmp_sub_pth.mkdir(exist_ok=True)
+        shutil.copy(str(submission_pth / "evaluation.csv"), tmp_sub_pth)
+        all_folders.append(str(tmp_sub_pth))
+
+    # Create folder with results
+    results_pth = Path(__file__).parent / ".results"
+    results_pth.mkdir(exist_ok=True)
+    summary_file = str(results_pth / "summary.csv")
+    output_file = str(results_pth / "kits2023_ranking.csv")
+
+    # Generate summary.csv then rank
+    generate_summary_csv(all_folders, summary_file)
     rank_participants(summary_file, output_file)

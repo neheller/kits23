@@ -1,5 +1,7 @@
 dataset/*/*imaging.nii.gz
 dataset/*/raw
+kits23/evaluation/.results
+kits23/evaluation/.submissions
 
 
 # DEFAULTS BELOW ==============================================================
