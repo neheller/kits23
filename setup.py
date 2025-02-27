@@ -17,7 +17,7 @@ setup(
         'argparse',
         'tqdm',
         "pytest",
-        'Surface-Distance-Based-Measures @ git+https://github.com/deepmind/surface-distance.git',
+        'surface-distance @ git+https://github.com/deepmind/surface-distance.git',
         'SimpleITK',
         "batchgenerators"
     ],
