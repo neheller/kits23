@@ -4,9 +4,9 @@ The official repository of the 2023 Kidney Tumor Segmentation Challenge
 
 [Challenge Homepage](https://kits23.kits-challenge.org/)
 
-**Current Dataset Version: `0.1.3`**
+**Current Dataset Version: `0.1.4`**
 
-Most recent change (`0.1.2` -> `0.1.3`) was documentation only.
+Most recent change (`0.1.3` -> `0.1.4`) was updating a dependency only.
 
 ## Timeline
 
