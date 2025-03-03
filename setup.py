@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='kits23',
     packages=find_namespace_packages(include=["kits23*"]),
-    version='0.1.3',
+    version='0.1.4',
     description='',
     zip_safe=False,
     install_requires=[
