@@ -29900,7 +29900,7 @@
         "radiographic_size": 2.9,
         "cytoreductive": false,
         "pathologic_size": 3.0,
-        "malignant": false,
+        "malignant": true,
         "pathology_t_stage": "1a",
         "pathology_n_stage": "x",
         "pathology_m_stage": "x",
