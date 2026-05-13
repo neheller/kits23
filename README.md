@@ -49,7 +49,9 @@ Once the `kits23` package is installed, you should be able to run the following 
 kits23_download_data
 ```
 
-This will place the data in the `dataset/` folder.
+This downloads imaging from the
+[`neheller/KiTS-Challenge-Imaging`](https://huggingface.co/datasets/neheller/KiTS-Challenge-Imaging)
+Hugging Face dataset and places it in the `dataset/` folder.
 
 ### Using the Metrics
 

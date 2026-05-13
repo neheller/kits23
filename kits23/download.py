@@ -10,6 +10,12 @@ from kits23 import TRAINING_CASE_NUMBERS
 
 
 DST_PTH = Path(__file__).resolve().parent.parent / "dataset"
+HF_DATASET_REPO = "neheller/KiTS-Challenge-Imaging"
+HF_DATASET_REVISION = "main"
+HF_DATASET_BASE_URL = (
+    f"https://huggingface.co/datasets/{HF_DATASET_REPO}/resolve/"
+    f"{HF_DATASET_REVISION}"
+)
 
 
 def get_destination(case_id: str, create: bool = False):
@@ -29,15 +35,19 @@ def cleanup(tmp_pth: Path, e: Exception):
     raise(e)
 
 
+def get_remote_url(case_num: int):
+    case_id = f"case_{case_num:05d}"
+    return f"{HF_DATASET_BASE_URL}/images/{case_id}.nii.gz"
+
+
 def download_case(case_num: int, pbar: tqdm, retry=True):
-    remote_name = f"master_{case_num:05d}.nii.gz"
-    url = f"https://kits19.sfo2.digitaloceanspaces.com/{remote_name}"
+    url = get_remote_url(case_num)
     destination = get_destination(f"case_{case_num:05d}", True)
     tmp_pth = destination.parent / f".partial.{destination.name}"
     try:
         urllib.request.urlretrieve(url, str(tmp_pth))
         shutil.move(str(tmp_pth), str(destination))
-    except KeyboardInterrupt as e:
+    except KeyboardInterrupt:
         pbar.close()
         while True:
             try:
@@ -73,7 +83,7 @@ def download_dataset():
     # Show progressbar as cases are downloaded
     print(f"\nFound {len(left_to_download)} cases to download\n")
     for case_num in (pbar := tqdm(left_to_download)):
-        pbar.set_description(f"Dowloading case_{case_num:05d}...")
+        pbar.set_description(f"Downloading case_{case_num:05d}...")
         download_case(case_num, pbar)
 
 
